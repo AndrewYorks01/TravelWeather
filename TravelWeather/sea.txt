@@ -1,0 +1,13 @@
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>0.00</JanSea>
+    <FebSea>0.00</FebSea>
+    <MarSea>0.00</MarSea>
+    <AprSea>0.00</AprSea>
+    <MaySea>0.00</MaySea>
+    <JunSea>0.00</JunSea>
+    <JulSea>0.00</JulSea>
+    <AugSea>0.00</AugSea>
+    <SepSea>0.00</SepSea>
+    <OctSea>0.00</OctSea>
+    <NovSea>0.00</NovSea>
+    <DecSea>0.00</DecSea>

@@ -1,0 +1,2756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BeachData>
+  <Beach>
+    <Name>Cape Cod, MA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>44.81</JanMax>
+    <FebMax>41.82</FebMax>
+    <MarMax>45.26</MarMax>
+    <AprMax>56.27</AprMax>
+    <MayMax>63.94</MayMax>
+    <JunMax>72.57</JunMax>
+    <JulMax>82.26</JulMax>
+    <AugMax>81.77</AugMax>
+    <SepMax>73.13</SepMax>
+    <OctMax>62.55</OctMax>
+    <NovMax>55.30</NovMax>
+    <DecMax>43.55</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>32.16</JanMin>
+    <FebMin>24.29</FebMin>
+    <MarMin>32.29</MarMin>
+    <AprMin>41.43</AprMin>
+    <MayMin>49.26</MayMin>
+    <JunMin>56.13</JunMin>
+    <JulMin>67.52</JulMin>
+    <AugMin>67.74</AugMin>
+    <SepMin>57.37</SepMin>
+    <OctMin>45.29</OctMin>
+    <NovMin>25.27</NovMin>
+    <DecMin>30.29</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>8.17</JanRain>
+    <FebRain>2.00</FebRain>
+    <MarRain>3.78</MarRain>
+    <AprRain>2.54</AprRain>
+    <MayRain>2.21</MayRain>
+    <JunRain>3.51</JunRain>
+    <JulRain>0.33</JulRain>
+    <AugRain>0.70</AugRain>
+    <SepRain>2.99</SepRain>
+    <OctRain>6.22</OctRain>
+    <NovRain>1.07</NovRain>
+    <DecRain>3.71</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.72</JanWind>
+    <FebWind>9.14</FebWind>
+    <MarWind>9.96</MarWind>
+    <AprWind>10.08</AprWind>
+    <MayWind>9.30</MayWind>
+    <JunWind>7.62</JunWind>
+    <JulWind>9.40</JulWind>
+    <AugWind>8.66</AugWind>
+    <SepWind>7.28</SepWind>
+    <OctWind>7.13</OctWind>
+    <NovWind>8.76</NovWind>
+    <DecWind>10.47</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>34.72</JanDew>
+    <FebDew>27.33</FebDew>
+    <MarDew>30.48</MarDew>
+    <AprDew>37.05</AprDew>
+    <MayDew>49.00</MayDew>
+    <JunDew>56.45</JunDew>
+    <JulDew>65.02</JulDew>
+    <AugDew>66.66</AugDew>
+    <SepDew>56.28</SepDew>
+    <OctDew>50.45</OctDew>
+    <NovDew>37.55</NovDew>
+    <DecDew>30.80</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>41.20</JanSea>
+    <FebSea>38.10</FebSea>
+    <MarSea>38.50</MarSea>
+    <AprSea>43.90</AprSea>
+    <MaySea>50.40</MaySea>
+    <JunSea>58.60</JunSea>
+    <JulSea>66.20</JulSea>
+    <AugSea>68.40</AugSea>
+    <SepSea>65.70</SepSea>
+    <OctSea>60.40</OctSea>
+    <NovSea>53.10</NovSea>
+    <DecSea>43.70</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Montauk, NY</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>47.10</JanMax>
+    <FebMax>45.39</FebMax>
+    <MarMax>47.52</MarMax>
+    <AprMax>54.47</AprMax>
+    <MayMax>64.13</MayMax>
+    <JunMax>73.47</JunMax>
+    <JulMax>81.58</JulMax>
+    <AugMax>81.06</AugMax>
+    <SepMax>73.10</SepMax>
+    <OctMax>63.16</OctMax>
+    <NovMax>57.30</NovMax>
+    <DecMax>45.45</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>38.03</JanMin>
+    <FebMin>31.11</FebMin>
+    <MarMin>37.35</MarMin>
+    <AprMin>42.17</AprMin>
+    <MayMin>50.10</MayMin>
+    <JunMin>60.40</JunMin>
+    <JulMin>69.13</JulMin>
+    <AugMin>69.68</AugMin>
+    <SepMin>62.77</SepMin>
+    <OctMin>53.26</OctMin>
+    <NovMin>46.03</NovMin>
+    <DecMin>34.97</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>7.31</JanRain>
+    <FebRain>1.86</FebRain>
+    <MarRain>3.02</MarRain>
+    <AprRain>2.92</AprRain>
+    <MayRain>2.65</MayRain>
+    <JunRain>1.92</JunRain>
+    <JulRain>4.89</JulRain>
+    <AugRain>1.98</AugRain>
+    <SepRain>2.86</SepRain>
+    <OctRain>6.49</OctRain>
+    <NovRain>2.08</NovRain>
+    <DecRain>5.08</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.00</JanWind>
+    <FebWind>8.28</FebWind>
+    <MarWind>8.99</MarWind>
+    <AprWind>8.24</AprWind>
+    <MayWind>6.39</MayWind>
+    <JunWind>4.91</JunWind>
+    <JulWind>1.28</JulWind>
+    <AugWind>4.92</AugWind>
+    <SepWind>6.26</SepWind>
+    <OctWind>6.56</OctWind>
+    <NovWind>8.69</NovWind>
+    <DecWind>9.95</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>34.61</JanDew>
+    <FebDew>29.01</FebDew>
+    <MarDew>31.37</MarDew>
+    <AprDew>37.86</AprDew>
+    <MayDew>50.58</MayDew>
+    <JunDew>58.91</JunDew>
+    <JulDew>67.05</JulDew>
+    <AugDew>68.25</AugDew>
+    <SepDew>58.82</SepDew>
+    <OctDew>50.91</OctDew>
+    <NovDew>40.97</NovDew>
+    <DecDew>30.71</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>42.80</JanSea>
+    <FebSea>37.40</FebSea>
+    <MarSea>38.20</MarSea>
+    <AprSea>41.20</AprSea>
+    <MaySea>52.00</MaySea>
+    <JunSea>62.80</JunSea>
+    <JulSea>70.70</JulSea>
+    <AugSea>73.20</AugSea>
+    <SepSea>68.90</SepSea>
+    <OctSea>63.30</OctSea>
+    <NovSea>55.90</NovSea>
+    <DecSea>49.80</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Wildwood, NJ</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>50.48</JanMax>
+    <FebMax>50.36</FebMax>
+    <MarMax>53.48</MarMax>
+    <AprMax>61.67</AprMax>
+    <MayMax>71.94</MayMax>
+    <JunMax>80.47</JunMax>
+    <JulMax>87.23</JulMax>
+    <AugMax>86.77</AugMax>
+    <SepMax>77.63</SepMax>
+    <OctMax>65.03</OctMax>
+    <NovMax>59.33</NovMax>
+    <DecMax>47.03</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>34.87</JanMin>
+    <FebMin>31.12</FebMin>
+    <MarMin>33.45</MarMin>
+    <AprMin>42.70</AprMin>
+    <MayMin>54.84</MayMin>
+    <JunMin>61.17</JunMin>
+    <JulMin>70.23</JulMin>
+    <AugMin>68.61</AugMin>
+    <SepMin>58.97</SepMin>
+    <OctMin>46.94</OctMin>
+    <NovMin>38.80</NovMin>
+    <DecMin>27.61</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>4.60</JanRain>
+    <FebRain>1.90</FebRain>
+    <MarRain>1.50</MarRain>
+    <AprRain>4.02</AprRain>
+    <MayRain>4.57</MayRain>
+    <JunRain>2.13</JunRain>
+    <JulRain>4.76</JulRain>
+    <AugRain>4.45</AugRain>
+    <SepRain>3.38</SepRain>
+    <OctRain>7.88</OctRain>
+    <NovRain>3.16</NovRain>
+    <DecRain>5.10</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.58</JanWind>
+    <FebWind>8.72</FebWind>
+    <MarWind>10.33</MarWind>
+    <AprWind>10.83</AprWind>
+    <MayWind>9.81</MayWind>
+    <JunWind>7.63</JunWind>
+    <JulWind>7.07</JulWind>
+    <AugWind>6.85</AugWind>
+    <SepWind>7.41</SepWind>
+    <OctWind>7.66</OctWind>
+    <NovWind>8.10</NovWind>
+    <DecWind>8.48</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>35.06</JanDew>
+    <FebDew>31.12</FebDew>
+    <MarDew>32.06</MarDew>
+    <AprDew>38.29</AprDew>
+    <MayDew>53.06</MayDew>
+    <JunDew>59.20</JunDew>
+    <JulDew>67.76</JulDew>
+    <AugDew>66.08</AugDew>
+    <SepDew>58.08</SepDew>
+    <OctDew>48.26</OctDew>
+    <NovDew>39.12</NovDew>
+    <DecDew>29.49</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>41.50</JanSea>
+    <FebSea>39.90</FebSea>
+    <MarSea>39.30</MarSea>
+    <AprSea>47.70</AprSea>
+    <MaySea>56.50</MaySea>
+    <JunSea>67.60</JunSea>
+    <JulSea>74.70</JulSea>
+    <AugSea>76.50</AugSea>
+    <SepSea>72.30</SepSea>
+    <OctSea>65.70</OctSea>
+    <NovSea>56.10</NovSea>
+    <DecSea>44.70</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Rehoboth Beach, DE</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>54.06</JanMax>
+    <FebMax>55.64</FebMax>
+    <MarMax>57.29</MarMax>
+    <AprMax>66.00</AprMax>
+    <MayMax>74.29</MayMax>
+    <JunMax>83.40</JunMax>
+    <JulMax>84.81</JulMax>
+    <AugMax>88.42</AugMax>
+    <SepMax>79.63</SepMax>
+    <OctMax>66.29</OctMax>
+    <NovMax>62.67</NovMax>
+    <DecMax>49.74</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>34.23</JanMin>
+    <FebMin>32.96</FebMin>
+    <MarMin>35.29</MarMin>
+    <AprMin>44.27</AprMin>
+    <MayMin>57.32</MayMin>
+    <JunMin>60.53</JunMin>
+    <JulMin>63.58</JulMin>
+    <AugMin>66.81</AugMin>
+    <SepMin>58.03</SepMin>
+    <OctMin>43.26</OctMin>
+    <NovMin>40.40</NovMin>
+    <DecMin>30.06</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.10</JanRain>
+    <FebRain>1.63</FebRain>
+    <MarRain>1.36</MarRain>
+    <AprRain>3.39</AprRain>
+    <MayRain>5.93</MayRain>
+    <JunRain>4.33</JunRain>
+    <JulRain>6.48</JulRain>
+    <AugRain>2.90</AugRain>
+    <SepRain>3.42</SepRain>
+    <OctRain>4.46</OctRain>
+    <NovRain>2.58</NovRain>
+    <DecRain>4.33</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.64</JanWind>
+    <FebWind>8.60</FebWind>
+    <MarWind>8.72</MarWind>
+    <AprWind>8.56</AprWind>
+    <MayWind>8.78</MayWind>
+    <JunWind>6.51</JunWind>
+    <JulWind>6.15</JulWind>
+    <AugWind>5.23</AugWind>
+    <SepWind>5.92</SepWind>
+    <OctWind>6.15</OctWind>
+    <NovWind>6.33</NovWind>
+    <DecWind>6.60</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>37.12</JanDew>
+    <FebDew>35.28</FebDew>
+    <MarDew>34.26</MarDew>
+    <AprDew>42.06</AprDew>
+    <MayDew>56.98</MayDew>
+    <JunDew>60.73</JunDew>
+    <JulDew>65.24</JulDew>
+    <AugDew>68.11</AugDew>
+    <SepDew>60.27</SepDew>
+    <OctDew>48.95</OctDew>
+    <NovDew>42.29</NovDew>
+    <DecDew>32.33</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>41.50</JanSea>
+    <FebSea>39.90</FebSea>
+    <MarSea>41.50</MarSea>
+    <AprSea>47.70</AprSea>
+    <MaySea>56.50</MaySea>
+    <JunSea>67.60</JunSea>
+    <JulSea>74.70</JulSea>
+    <AugSea>76.50</AugSea>
+    <SepSea>72.30</SepSea>
+    <OctSea>65.70</OctSea>
+    <NovSea>56.10</NovSea>
+    <DecSea>48.00</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Ocean City, MD</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>54.06</JanMax>
+    <FebMax>55.64</FebMax>
+    <MarMax>57.29</MarMax>
+    <AprMax>66.00</AprMax>
+    <MayMax>74.29</MayMax>
+    <JunMax>83.40</JunMax>
+    <JulMax>84.81</JulMax>
+    <AugMax>88.42</AugMax>
+    <SepMax>79.63</SepMax>
+    <OctMax>66.29</OctMax>
+    <NovMax>62.67</NovMax>
+    <DecMax>49.74</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>34.23</JanMin>
+    <FebMin>32.96</FebMin>
+    <MarMin>35.29</MarMin>
+    <AprMin>44.27</AprMin>
+    <MayMin>57.32</MayMin>
+    <JunMin>60.53</JunMin>
+    <JulMin>63.58</JulMin>
+    <AugMin>66.81</AugMin>
+    <SepMin>58.03</SepMin>
+    <OctMin>43.26</OctMin>
+    <NovMin>40.40</NovMin>
+    <DecMin>30.06</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.10</JanRain>
+    <FebRain>1.63</FebRain>
+    <MarRain>1.36</MarRain>
+    <AprRain>3.39</AprRain>
+    <MayRain>5.93</MayRain>
+    <JunRain>4.33</JunRain>
+    <JulRain>6.48</JulRain>
+    <AugRain>2.90</AugRain>
+    <SepRain>3.42</SepRain>
+    <OctRain>4.46</OctRain>
+    <NovRain>2.58</NovRain>
+    <DecRain>4.33</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.64</JanWind>
+    <FebWind>8.60</FebWind>
+    <MarWind>8.72</MarWind>
+    <AprWind>8.56</AprWind>
+    <MayWind>8.78</MayWind>
+    <JunWind>6.51</JunWind>
+    <JulWind>6.15</JulWind>
+    <AugWind>5.23</AugWind>
+    <SepWind>5.92</SepWind>
+    <OctWind>6.15</OctWind>
+    <NovWind>6.33</NovWind>
+    <DecWind>6.60</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>37.12</JanDew>
+    <FebDew>35.28</FebDew>
+    <MarDew>34.26</MarDew>
+    <AprDew>42.06</AprDew>
+    <MayDew>56.98</MayDew>
+    <JunDew>60.73</JunDew>
+    <JulDew>65.24</JulDew>
+    <AugDew>68.11</AugDew>
+    <SepDew>60.27</SepDew>
+    <OctDew>48.95</OctDew>
+    <NovDew>42.29</NovDew>
+    <DecDew>32.33</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>44.10</JanSea>
+    <FebSea>42.40</FebSea>
+    <MarSea>44.10</MarSea>
+    <AprSea>49.80</AprSea>
+    <MaySea>56.70</MaySea>
+    <JunSea>68.50</JunSea>
+    <JulSea>75.70</JulSea>
+    <AugSea>77.40</AugSea>
+    <SepSea>73.20</SepSea>
+    <OctSea>66.40</OctSea>
+    <NovSea>57.00</NovSea>
+    <DecSea>50.20</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Chincoteague Island, VA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>54.06</JanMax>
+    <FebMax>55.64</FebMax>
+    <MarMax>57.29</MarMax>
+    <AprMax>66.00</AprMax>
+    <MayMax>74.29</MayMax>
+    <JunMax>83.40</JunMax>
+    <JulMax>84.81</JulMax>
+    <AugMax>88.42</AugMax>
+    <SepMax>79.63</SepMax>
+    <OctMax>66.29</OctMax>
+    <NovMax>62.67</NovMax>
+    <DecMax>49.74</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>34.23</JanMin>
+    <FebMin>32.96</FebMin>
+    <MarMin>35.29</MarMin>
+    <AprMin>44.27</AprMin>
+    <MayMin>57.32</MayMin>
+    <JunMin>60.53</JunMin>
+    <JulMin>63.58</JulMin>
+    <AugMin>66.81</AugMin>
+    <SepMin>58.03</SepMin>
+    <OctMin>43.26</OctMin>
+    <NovMin>40.40</NovMin>
+    <DecMin>30.06</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.10</JanRain>
+    <FebRain>1.63</FebRain>
+    <MarRain>1.36</MarRain>
+    <AprRain>3.39</AprRain>
+    <MayRain>5.93</MayRain>
+    <JunRain>4.33</JunRain>
+    <JulRain>6.48</JulRain>
+    <AugRain>2.90</AugRain>
+    <SepRain>3.42</SepRain>
+    <OctRain>4.46</OctRain>
+    <NovRain>2.58</NovRain>
+    <DecRain>4.33</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.64</JanWind>
+    <FebWind>8.60</FebWind>
+    <MarWind>8.72</MarWind>
+    <AprWind>8.56</AprWind>
+    <MayWind>8.78</MayWind>
+    <JunWind>6.51</JunWind>
+    <JulWind>6.15</JulWind>
+    <AugWind>5.23</AugWind>
+    <SepWind>5.92</SepWind>
+    <OctWind>6.15</OctWind>
+    <NovWind>6.33</NovWind>
+    <DecWind>6.60</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>37.12</JanDew>
+    <FebDew>35.28</FebDew>
+    <MarDew>34.26</MarDew>
+    <AprDew>42.06</AprDew>
+    <MayDew>56.98</MayDew>
+    <JunDew>60.73</JunDew>
+    <JulDew>65.24</JulDew>
+    <AugDew>68.11</AugDew>
+    <SepDew>60.27</SepDew>
+    <OctDew>48.95</OctDew>
+    <NovDew>42.29</NovDew>
+    <DecDew>32.33</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>43.20</JanSea>
+    <FebSea>41.40</FebSea>
+    <MarSea>44.10</MarSea>
+    <AprSea>51.10</AprSea>
+    <MaySea>58.80</MaySea>
+    <JunSea>70.70</JunSea>
+    <JulSea>77.20</JulSea>
+    <AugSea>78.60</AugSea>
+    <SepSea>74.10</SepSea>
+    <OctSea>67.60</OctSea>
+    <NovSea>58.10</NovSea>
+    <DecSea>50.50</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Nags Head, NC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>56.00</JanMax>
+    <FebMax>59.14</FebMax>
+    <MarMax>60.03</MarMax>
+    <AprMax>67.83</AprMax>
+    <MayMax>75.03</MayMax>
+    <JunMax>83.03</JunMax>
+    <JulMax>88.71</JulMax>
+    <AugMax>86.43</AugMax>
+    <SepMax>81.87</SepMax>
+    <OctMax>66.87</OctMax>
+    <NovMax>62.63</NovMax>
+    <DecMax>51.84</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>40.00</JanMin>
+    <FebMin>42.71</FebMin>
+    <MarMin>43.81</MarMin>
+    <AprMin>50.17</AprMin>
+    <MayMin>60.26</MayMin>
+    <JunMin>67.90</JunMin>
+    <JulMin>73.61</JulMin>
+    <AugMin>72.37</AugMin>
+    <SepMin>67.33</SepMin>
+    <OctMin>51.74</OctMin>
+    <NovMin>48.87</NovMin>
+    <DecMin>36.29</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.82</JanRain>
+    <FebRain>2.12</FebRain>
+    <MarRain>1.92</MarRain>
+    <AprRain>3.19</AprRain>
+    <MayRain>4.50</MayRain>
+    <JunRain>2.27</JunRain>
+    <JulRain>4.97</JulRain>
+    <AugRain>0.74</AugRain>
+    <SepRain>0.56</SepRain>
+    <OctRain>5.22</OctRain>
+    <NovRain>2.73</NovRain>
+    <DecRain>2.72</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.11</JanWind>
+    <FebWind>10.48</FebWind>
+    <MarWind>10.14</MarWind>
+    <AprWind>9.53</AprWind>
+    <MayWind>10.62</MayWind>
+    <JunWind>7.98</JunWind>
+    <JulWind>9.36</JulWind>
+    <AugWind>7.08</AugWind>
+    <SepWind>9.51</SepWind>
+    <OctWind>8.07</OctWind>
+    <NovWind>8.30</NovWind>
+    <DecWind>7.94</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>40.21</JanDew>
+    <FebDew>40.77</FebDew>
+    <MarDew>39.38</MarDew>
+    <AprDew>45.08</AprDew>
+    <MayDew>59.64</MayDew>
+    <JunDew>63.33</JunDew>
+    <JulDew>71.95</JulDew>
+    <AugDew>70.08</AugDew>
+    <SepDew>62.72</SepDew>
+    <OctDew>52.47</OctDew>
+    <NovDew>47.83</NovDew>
+    <DecDew>36.01</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>55.20</JanSea>
+    <FebSea>53.20</FebSea>
+    <MarSea>55.90</MarSea>
+    <AprSea>61.30</AprSea>
+    <MaySea>68.40</MaySea>
+    <JunSea>76.10</JunSea>
+    <JulSea>79.30</JulSea>
+    <AugSea>81.70</AugSea>
+    <SepSea>78.10</SepSea>
+    <OctSea>73.00</OctSea>
+    <NovSea>65.10</NovSea>
+    <DecSea>61.70</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Ocracoke, NC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>61.87</JanMax>
+    <FebMax>65.25</FebMax>
+    <MarMax>66.35</MarMax>
+    <AprMax>73.93</AprMax>
+    <MayMax>81.03</MayMax>
+    <JunMax>86.60</JunMax>
+    <JulMax>88.90</JulMax>
+    <AugMax>87.03</AugMax>
+    <SepMax>83.20</SepMax>
+    <OctMax>71.74</OctMax>
+    <NovMax>68.17</NovMax>
+    <DecMax>57.16</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>39.77</JanMin>
+    <FebMin>43.21</FebMin>
+    <MarMin>45.26</MarMin>
+    <AprMin>51.40</AprMin>
+    <MayMin>63.74</MayMin>
+    <JunMin>68.03</JunMin>
+    <JulMin>71.06</JulMin>
+    <AugMin>69.03</AugMin>
+    <SepMin>65.67</SepMin>
+    <OctMin>50.94</OctMin>
+    <NovMin>48.40</NovMin>
+    <DecMin>36.58</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.56</JanRain>
+    <FebRain>3.19</FebRain>
+    <MarRain>2.13</MarRain>
+    <AprRain>3.55</AprRain>
+    <MayRain>5.16</MayRain>
+    <JunRain>2.23</JunRain>
+    <JulRain>11.36</JulRain>
+    <AugRain>5.05</AugRain>
+    <SepRain>2.55</SepRain>
+    <OctRain>0.56</OctRain>
+    <NovRain>1.66</NovRain>
+    <DecRain>3.71</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>5.80</JanWind>
+    <FebWind>7.31</FebWind>
+    <MarWind>7.88</MarWind>
+    <AprWind>7.64</AprWind>
+    <MayWind>8.26</MayWind>
+    <JunWind>5.66</JunWind>
+    <JulWind>6.47</JulWind>
+    <AugWind>4.92</AugWind>
+    <SepWind>5.91</SepWind>
+    <OctWind>5.72</OctWind>
+    <NovWind>6.46</NovWind>
+    <DecWind>5.85</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>41.90</JanDew>
+    <FebDew>45.11</FebDew>
+    <MarDew>43.68</MarDew>
+    <AprDew>49.19</AprDew>
+    <MayDew>63.15</MayDew>
+    <JunDew>66.04</JunDew>
+    <JulDew>73.81</JulDew>
+    <AugDew>70.84</AugDew>
+    <SepDew>64.97</SepDew>
+    <OctDew>53.52</OctDew>
+    <NovDew>49.92</NovDew>
+    <DecDew>37.44</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>55.20</JanSea>
+    <FebSea>53.20</FebSea>
+    <MarSea>55.90</MarSea>
+    <AprSea>61.30</AprSea>
+    <MaySea>68.40</MaySea>
+    <JunSea>76.10</JunSea>
+    <JulSea>79.30</JulSea>
+    <AugSea>81.70</AugSea>
+    <SepSea>78.10</SepSea>
+    <OctSea>73.00</OctSea>
+    <NovSea>65.10</NovSea>
+    <DecSea>61.70</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Atlantic Beach, NC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>61.87</JanMax>
+    <FebMax>65.25</FebMax>
+    <MarMax>66.35</MarMax>
+    <AprMax>73.93</AprMax>
+    <MayMax>81.03</MayMax>
+    <JunMax>86.60</JunMax>
+    <JulMax>88.90</JulMax>
+    <AugMax>87.03</AugMax>
+    <SepMax>83.20</SepMax>
+    <OctMax>71.74</OctMax>
+    <NovMax>68.17</NovMax>
+    <DecMax>57.16</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>39.77</JanMin>
+    <FebMin>43.21</FebMin>
+    <MarMin>45.26</MarMin>
+    <AprMin>51.40</AprMin>
+    <MayMin>63.74</MayMin>
+    <JunMin>68.03</JunMin>
+    <JulMin>71.06</JulMin>
+    <AugMin>69.03</AugMin>
+    <SepMin>65.67</SepMin>
+    <OctMin>50.94</OctMin>
+    <NovMin>48.40</NovMin>
+    <DecMin>36.58</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.56</JanRain>
+    <FebRain>3.19</FebRain>
+    <MarRain>2.13</MarRain>
+    <AprRain>3.55</AprRain>
+    <MayRain>5.16</MayRain>
+    <JunRain>2.23</JunRain>
+    <JulRain>11.36</JulRain>
+    <AugRain>5.05</AugRain>
+    <SepRain>2.55</SepRain>
+    <OctRain>0.56</OctRain>
+    <NovRain>1.66</NovRain>
+    <DecRain>3.71</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>5.80</JanWind>
+    <FebWind>7.31</FebWind>
+    <MarWind>7.88</MarWind>
+    <AprWind>7.64</AprWind>
+    <MayWind>8.26</MayWind>
+    <JunWind>5.66</JunWind>
+    <JulWind>6.47</JulWind>
+    <AugWind>4.92</AugWind>
+    <SepWind>5.91</SepWind>
+    <OctWind>5.72</OctWind>
+    <NovWind>6.46</NovWind>
+    <DecWind>5.85</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>41.90</JanDew>
+    <FebDew>45.11</FebDew>
+    <MarDew>43.68</MarDew>
+    <AprDew>49.19</AprDew>
+    <MayDew>63.15</MayDew>
+    <JunDew>66.04</JunDew>
+    <JulDew>73.81</JulDew>
+    <AugDew>70.84</AugDew>
+    <SepDew>64.97</SepDew>
+    <OctDew>53.52</OctDew>
+    <NovDew>49.92</NovDew>
+    <DecDew>37.44</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>60.60</JanSea>
+    <FebSea>57.60</FebSea>
+    <MarSea>59.20</MarSea>
+    <AprSea>64.90</AprSea>
+    <MaySea>70.50</MaySea>
+    <JunSea>77.70</JunSea>
+    <JulSea>81.70</JulSea>
+    <AugSea>82.60</AugSea>
+    <SepSea>80.20</SepSea>
+    <OctSea>75.60</OctSea>
+    <NovSea>67.50</NovSea>
+    <DecSea>62.80</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Topsail Beach, NC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>63.90</JanMax>
+    <FebMax>67.89</FebMax>
+    <MarMax>68.84</MarMax>
+    <AprMax>74.77</AprMax>
+    <MayMax>83.10</MayMax>
+    <JunMax>88.00</JunMax>
+    <JulMax>89.71</JulMax>
+    <AugMax>88.10</AugMax>
+    <SepMax>84.77</SepMax>
+    <OctMax>74.26</OctMax>
+    <NovMax>70.37</NovMax>
+    <DecMax>59.77</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>42.39</JanMin>
+    <FebMin>46.07</FebMin>
+    <MarMin>48.42</MarMin>
+    <AprMin>52.83</AprMin>
+    <MayMin>63.87</MayMin>
+    <JunMin>69.73</JunMin>
+    <JulMin>73.65</JulMin>
+    <AugMin>73.55</AugMin>
+    <SepMin>64.87</SepMin>
+    <OctMin>54.39</OctMin>
+    <NovMin>50.40</NovMin>
+    <DecMin>37.03</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>2.46</JanRain>
+    <FebRain>3.12</FebRain>
+    <MarRain>2.67</MarRain>
+    <AprRain>3.40</AprRain>
+    <MayRain>1.12</MayRain>
+    <JunRain>4.83</JunRain>
+    <JulRain>6.94</JulRain>
+    <AugRain>6.71</AugRain>
+    <SepRain>3.99</SepRain>
+    <OctRain>1.74</OctRain>
+    <NovRain>1.51</NovRain>
+    <DecRain>2.64</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.79</JanWind>
+    <FebWind>8.27</FebWind>
+    <MarWind>9.12</MarWind>
+    <AprWind>8.66</AprWind>
+    <MayWind>9.10</MayWind>
+    <JunWind>7.05</JunWind>
+    <JulWind>8.23</JulWind>
+    <AugWind>6.26</AugWind>
+    <SepWind>7.08</SepWind>
+    <OctWind>6.34</OctWind>
+    <NovWind>7.97</NovWind>
+    <DecWind>6.65</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>43.14</JanDew>
+    <FebDew>47.30</FebDew>
+    <MarDew>45.51</MarDew>
+    <AprDew>51.08</AprDew>
+    <MayDew>63.12</MayDew>
+    <JunDew>66.95</JunDew>
+    <JulDew>74.57</JulDew>
+    <AugDew>71.84</AugDew>
+    <SepDew>66.01</SepDew>
+    <OctDew>54.60</OctDew>
+    <NovDew>51.72</NovDew>
+    <DecDew>38.96</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>59.00</JanSea>
+    <FebSea>55.90</FebSea>
+    <MarSea>56.80</MarSea>
+    <AprSea>63.10</AprSea>
+    <MaySea>69.30</MaySea>
+    <JunSea>77.00</JunSea>
+    <JulSea>81.10</JulSea>
+    <AugSea>82.20</AugSea>
+    <SepSea>79.70</SepSea>
+    <OctSea>74.80</OctSea>
+    <NovSea>66.70</NovSea>
+    <DecSea>61.30</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Carolina Beach, NC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>63.90</JanMax>
+    <FebMax>67.89</FebMax>
+    <MarMax>68.84</MarMax>
+    <AprMax>74.77</AprMax>
+    <MayMax>83.10</MayMax>
+    <JunMax>88.00</JunMax>
+    <JulMax>89.71</JulMax>
+    <AugMax>88.10</AugMax>
+    <SepMax>84.77</SepMax>
+    <OctMax>74.26</OctMax>
+    <NovMax>70.37</NovMax>
+    <DecMax>59.77</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>42.39</JanMin>
+    <FebMin>46.07</FebMin>
+    <MarMin>48.42</MarMin>
+    <AprMin>52.83</AprMin>
+    <MayMin>63.87</MayMin>
+    <JunMin>69.73</JunMin>
+    <JulMin>73.65</JulMin>
+    <AugMin>73.55</AugMin>
+    <SepMin>64.87</SepMin>
+    <OctMin>54.39</OctMin>
+    <NovMin>50.40</NovMin>
+    <DecMin>37.03</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>2.46</JanRain>
+    <FebRain>3.12</FebRain>
+    <MarRain>2.67</MarRain>
+    <AprRain>3.40</AprRain>
+    <MayRain>1.12</MayRain>
+    <JunRain>4.83</JunRain>
+    <JulRain>6.94</JulRain>
+    <AugRain>6.71</AugRain>
+    <SepRain>3.99</SepRain>
+    <OctRain>1.74</OctRain>
+    <NovRain>1.51</NovRain>
+    <DecRain>2.64</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.79</JanWind>
+    <FebWind>8.27</FebWind>
+    <MarWind>9.12</MarWind>
+    <AprWind>8.66</AprWind>
+    <MayWind>9.10</MayWind>
+    <JunWind>7.05</JunWind>
+    <JulWind>8.23</JulWind>
+    <AugWind>6.26</AugWind>
+    <SepWind>7.08</SepWind>
+    <OctWind>6.34</OctWind>
+    <NovWind>7.97</NovWind>
+    <DecWind>6.65</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>43.14</JanDew>
+    <FebDew>47.30</FebDew>
+    <MarDew>45.51</MarDew>
+    <AprDew>51.08</AprDew>
+    <MayDew>63.12</MayDew>
+    <JunDew>66.95</JunDew>
+    <JulDew>74.57</JulDew>
+    <AugDew>71.84</AugDew>
+    <SepDew>66.01</SepDew>
+    <OctDew>54.60</OctDew>
+    <NovDew>51.72</NovDew>
+    <DecDew>38.96</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>61.30</JanSea>
+    <FebSea>58.30</FebSea>
+    <MarSea>58.80</MarSea>
+    <AprSea>65.50</AprSea>
+    <MaySea>71.10</MaySea>
+    <JunSea>78.30</JunSea>
+    <JulSea>81.90</JulSea>
+    <AugSea>82.80</AugSea>
+    <SepSea>80.40</SepSea>
+    <OctSea>76.30</OctSea>
+    <NovSea>68.70</NovSea>
+    <DecSea>63.10</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Myrtle Beach, SC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>60.87</JanMax>
+    <FebMax>65.29</FebMax>
+    <MarMax>66.23</MarMax>
+    <AprMax>71.57</AprMax>
+    <MayMax>79.81</MayMax>
+    <JunMax>84.90</JunMax>
+    <JulMax>86.87</JulMax>
+    <AugMax>85.32</AugMax>
+    <SepMax>82.47</SepMax>
+    <OctMax>71.55</OctMax>
+    <NovMax>68.10</NovMax>
+    <DecMax>57.87</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>44.23</JanMin>
+    <FebMin>48.39</FebMin>
+    <MarMin>50.84</MarMin>
+    <AprMin>55.53</AprMin>
+    <MayMin>66.97</MayMin>
+    <JunMin>72.07</JunMin>
+    <JulMin>81.04</JulMin>
+    <AugMin>74.68</AugMin>
+    <SepMin>67.47</SepMin>
+    <OctMin>47.55</OctMin>
+    <NovMin>53.10</NovMin>
+    <DecMin>40.29</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.88</JanRain>
+    <FebRain>1.05</FebRain>
+    <MarRain>1.08</MarRain>
+    <AprRain>3.19</AprRain>
+    <MayRain>1.57</MayRain>
+    <JunRain>5.56</JunRain>
+    <JulRain>6.64</JulRain>
+    <AugRain>12.63</AugRain>
+    <SepRain>7.15</SepRain>
+    <OctRain>0.16</OctRain>
+    <NovRain>1.61</NovRain>
+    <DecRain>1.04</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.98</JanWind>
+    <FebWind>7.75</FebWind>
+    <MarWind>8.83</MarWind>
+    <AprWind>9.06</AprWind>
+    <MayWind>9.70</MayWind>
+    <JunWind>8.06</JunWind>
+    <JulWind>9.02</JulWind>
+    <AugWind>6.63</AugWind>
+    <SepWind>7.55</SepWind>
+    <OctWind>6.59</OctWind>
+    <NovWind>7.84</NovWind>
+    <DecWind>6.86</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>44.90</JanDew>
+    <FebDew>50.63</FebDew>
+    <MarDew>48.47</MarDew>
+    <AprDew>53.29</AprDew>
+    <MayDew>66.03</MayDew>
+    <JunDew>69.70</JunDew>
+    <JulDew>75.96</JulDew>
+    <AugDew>73.58</AugDew>
+    <SepDew>66.47</SepDew>
+    <OctDew>51.08</OctDew>
+    <NovDew>52.70</NovDew>
+    <DecDew>40.82</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>60.60</JanSea>
+    <FebSea>57.90</FebSea>
+    <MarSea>57.70</MarSea>
+    <AprSea>64.00</AprSea>
+    <MaySea>70.70</MaySea>
+    <JunSea>78.10</JunSea>
+    <JulSea>81.90</JulSea>
+    <AugSea>82.80</AugSea>
+    <SepSea>80.40</SepSea>
+    <OctSea>76.30</OctSea>
+    <NovSea>68.90</NovSea>
+    <DecSea>63.30</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Edisto Beach, SC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>63.45</JanMax>
+    <FebMax>70.00</FebMax>
+    <MarMax>69.52</MarMax>
+    <AprMax>74.77</AprMax>
+    <MayMax>82.65</MayMax>
+    <JunMax>87.00</JunMax>
+    <JulMax>88.68</JulMax>
+    <AugMax>87.13</AugMax>
+    <SepMax>83.37</SepMax>
+    <OctMax>74.65</OctMax>
+    <NovMax>69.70</NovMax>
+    <DecMax>60.10</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>45.35</JanMin>
+    <FebMin>53.00</FebMin>
+    <MarMin>54.45</MarMin>
+    <AprMin>58.90</AprMin>
+    <MayMin>66.99</MayMin>
+    <JunMin>73.87</JunMin>
+    <JulMin>76.16</JulMin>
+    <AugMin>75.42</AugMin>
+    <SepMin>70.87</SepMin>
+    <OctMin>63.88</OctMin>
+    <NovMin>56.27</NovMin>
+    <DecMin>45.65</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.00</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>4.38</JanWind>
+    <FebWind>5.87</FebWind>
+    <MarWind>6.59</MarWind>
+    <AprWind>4.94</AprWind>
+    <MayWind>6.37</MayWind>
+    <JunWind>5.06</JunWind>
+    <JulWind>4.75</JulWind>
+    <AugWind>2.96</AugWind>
+    <SepWind>5.77</SepWind>
+    <OctWind>4.63</OctWind>
+    <NovWind>7.63</NovWind>
+    <DecWind>6.03</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>46.25</JanDew>
+    <FebDew>53.42</FebDew>
+    <MarDew>52.13</MarDew>
+    <AprDew>56.74</AprDew>
+    <MayDew>66.99</MayDew>
+    <JunDew>71.22</JunDew>
+    <JulDew>74.93</JulDew>
+    <AugDew>73.90</AugDew>
+    <SepDew>68.23</SepDew>
+    <OctDew>57.25</OctDew>
+    <NovDew>54.67</NovDew>
+    <DecDew>43.18</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>56.80</JanSea>
+    <FebSea>56.30</FebSea>
+    <MarSea>57.00</MarSea>
+    <AprSea>64.00</AprSea>
+    <MaySea>71.10</MaySea>
+    <JunSea>78.30</JunSea>
+    <JulSea>82.20</JulSea>
+    <AugSea>82.90</AugSea>
+    <SepSea>81.00</SepSea>
+    <OctSea>76.30</OctSea>
+    <NovSea>68.40</NovSea>
+    <DecSea>60.80</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Hilton Head Island, SC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>63.45</JanMax>
+    <FebMax>70.00</FebMax>
+    <MarMax>69.52</MarMax>
+    <AprMax>74.77</AprMax>
+    <MayMax>82.65</MayMax>
+    <JunMax>87.00</JunMax>
+    <JulMax>88.68</JulMax>
+    <AugMax>87.13</AugMax>
+    <SepMax>83.37</SepMax>
+    <OctMax>74.65</OctMax>
+    <NovMax>69.70</NovMax>
+    <DecMax>60.10</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>45.35</JanMin>
+    <FebMin>53.00</FebMin>
+    <MarMin>54.45</MarMin>
+    <AprMin>58.90</AprMin>
+    <MayMin>66.99</MayMin>
+    <JunMin>73.87</JunMin>
+    <JulMin>76.16</JulMin>
+    <AugMin>75.42</AugMin>
+    <SepMin>70.87</SepMin>
+    <OctMin>63.88</OctMin>
+    <NovMin>56.27</NovMin>
+    <DecMin>45.65</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.00</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>4.38</JanWind>
+    <FebWind>5.87</FebWind>
+    <MarWind>6.59</MarWind>
+    <AprWind>4.94</AprWind>
+    <MayWind>6.37</MayWind>
+    <JunWind>5.06</JunWind>
+    <JulWind>4.75</JulWind>
+    <AugWind>2.96</AugWind>
+    <SepWind>5.77</SepWind>
+    <OctWind>4.63</OctWind>
+    <NovWind>7.63</NovWind>
+    <DecWind>6.03</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>46.25</JanDew>
+    <FebDew>53.42</FebDew>
+    <MarDew>52.13</MarDew>
+    <AprDew>56.74</AprDew>
+    <MayDew>66.99</MayDew>
+    <JunDew>71.22</JunDew>
+    <JulDew>74.93</JulDew>
+    <AugDew>73.90</AugDew>
+    <SepDew>68.23</SepDew>
+    <OctDew>57.25</OctDew>
+    <NovDew>54.67</NovDew>
+    <DecDew>43.18</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>56.80</JanSea>
+    <FebSea>56.30</FebSea>
+    <MarSea>57.00</MarSea>
+    <AprSea>64.00</AprSea>
+    <MaySea>71.10</MaySea>
+    <JunSea>78.30</JunSea>
+    <JulSea>82.20</JulSea>
+    <AugSea>82.90</AugSea>
+    <SepSea>81.00</SepSea>
+    <OctSea>76.30</OctSea>
+    <NovSea>68.40</NovSea>
+    <DecSea>60.80</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Jekyll Island, GA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>68.45</JanMax>
+    <FebMax>74.79</FebMax>
+    <MarMax>73.23</MarMax>
+    <AprMax>78.17</AprMax>
+    <MayMax>84.65</MayMax>
+    <JunMax>90.03</JunMax>
+    <JulMax>91.65</JulMax>
+    <AugMax>90.35</AugMax>
+    <SepMax>85.00</SepMax>
+    <OctMax>77.94</OctMax>
+    <NovMax>71.83</NovMax>
+    <DecMax>63.97</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>42.77</JanMin>
+    <FebMin>51.29</FebMin>
+    <MarMin>51.52</MarMin>
+    <AprMin>55.27</AprMin>
+    <MayMin>65.48</MayMin>
+    <JunMin>70.07</JunMin>
+    <JulMin>73.58</JulMin>
+    <AugMin>72.42</AugMin>
+    <SepMin>68.13</SepMin>
+    <OctMin>53.39</OctMin>
+    <NovMin>53.60</NovMin>
+    <DecMin>53.02</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>2.66</JanRain>
+    <FebRain>3.13</FebRain>
+    <MarRain>1.71</MarRain>
+    <AprRain>3.44</AprRain>
+    <MayRain>3.63</MayRain>
+    <JunRain>5.52</JunRain>
+    <JulRain>6.03</JulRain>
+    <AugRain>3.93</AugRain>
+    <SepRain>0.13</SepRain>
+    <OctRain>0.07</OctRain>
+    <NovRain>0.17</NovRain>
+    <DecRain>0.81</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.29</JanWind>
+    <FebWind>7.98</FebWind>
+    <MarWind>7.92</MarWind>
+    <AprWind>7.97</AprWind>
+    <MayWind>7.78</MayWind>
+    <JunWind>7.17</JunWind>
+    <JulWind>6.85</JulWind>
+    <AugWind>5.02</AugWind>
+    <SepWind>6.40</SepWind>
+    <OctWind>5.30</OctWind>
+    <NovWind>7.86</NovWind>
+    <DecWind>6.16</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>45.31</JanDew>
+    <FebDew>53.37</FebDew>
+    <MarDew>51.92</MarDew>
+    <AprDew>56.34</AprDew>
+    <MayDew>65.14</MayDew>
+    <JunDew>71.48</JunDew>
+    <JulDew>74.66</JulDew>
+    <AugDew>73.80</AugDew>
+    <SepDew>68.85</SepDew>
+    <OctDew>56.06</OctDew>
+    <NovDew>54.92</NovDew>
+    <DecDew>44.13</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>58.50</JanSea>
+    <FebSea>58.10</FebSea>
+    <MarSea>59.90</MarSea>
+    <AprSea>66.90</AprSea>
+    <MaySea>73.20</MaySea>
+    <JunSea>79.20</JunSea>
+    <JulSea>81.90</JulSea>
+    <AugSea>82.90</AugSea>
+    <SepSea>82.00</SepSea>
+    <OctSea>77.70</OctSea>
+    <NovSea>70.20</NovSea>
+    <DecSea>62.80</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Jacksonville Beach, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>71.29</JanMax>
+    <FebMax>78.07</FebMax>
+    <MarMax>76.42</MarMax>
+    <AprMax>79.10</AprMax>
+    <MayMax>85.52</MayMax>
+    <JunMax>90.30</JunMax>
+    <JulMax>91.61</JulMax>
+    <AugMax>89.87</AugMax>
+    <SepMax>86.23</SepMax>
+    <OctMax>79.84</OctMax>
+    <NovMax>74.27</NovMax>
+    <DecMax>67.32</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>44.68</JanMin>
+    <FebMin>52.79</FebMin>
+    <MarMin>53.48</MarMin>
+    <AprMin>57.27</AprMin>
+    <MayMin>65.45</MayMin>
+    <JunMin>71.20</JunMin>
+    <JulMin>73.00</JulMin>
+    <AugMin>70.19</AugMin>
+    <SepMin>69.73</SepMin>
+    <OctMin>57.10</OctMin>
+    <NovMin>57.10</NovMin>
+    <DecMin>45.10</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>2.07</JanRain>
+    <FebRain>1.29</FebRain>
+    <MarRain>3.04</MarRain>
+    <AprRain>4.97</AprRain>
+    <MayRain>4.64</MayRain>
+    <JunRain>0.91</JunRain>
+    <JulRain>7.10</JulRain>
+    <AugRain>8.10</AugRain>
+    <SepRain>6.05</SepRain>
+    <OctRain>1.60</OctRain>
+    <NovRain>2.22</NovRain>
+    <DecRain>0.41</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>5.88</JanWind>
+    <FebWind>7.67</FebWind>
+    <MarWind>7.26</MarWind>
+    <AprWind>7.67</AprWind>
+    <MayWind>6.94</MayWind>
+    <JunWind>6.59</JunWind>
+    <JulWind>5.60</JulWind>
+    <AugWind>5.20</AugWind>
+    <SepWind>6.41</SepWind>
+    <OctWind>5.19</OctWind>
+    <NovWind>8.24</NovWind>
+    <DecWind>5.63</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>48.00</JanDew>
+    <FebDew>55.48</FebDew>
+    <MarDew>54.61</MarDew>
+    <AprDew>58.08</AprDew>
+    <MayDew>66.46</MayDew>
+    <JunDew>71.33</JunDew>
+    <JulDew>73.62</JulDew>
+    <AugDew>73.29</AugDew>
+    <SepDew>69.72</SepDew>
+    <OctDew>57.89</OctDew>
+    <NovDew>58.19</NovDew>
+    <DecDew>48.04</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>59.20</JanSea>
+    <FebSea>58.80</FebSea>
+    <MarSea>60.60</MarSea>
+    <AprSea>67.80</AprSea>
+    <MaySea>74.10</MaySea>
+    <JunSea>79.30</JunSea>
+    <JulSea>81.90</JulSea>
+    <AugSea>83.10</AugSea>
+    <SepSea>82.40</SepSea>
+    <OctSea>78.30</OctSea>
+    <NovSea>70.90</NovSea>
+    <DecSea>63.30</DecSea>
+  </Beach>
+  <Beach>
+    <Name>St. Augustine, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>69.65</JanMax>
+    <FebMax>75.00</FebMax>
+    <MarMax>74.52</MarMax>
+    <AprMax>77.07</AprMax>
+    <MayMax>83.45</MayMax>
+    <JunMax>88.17</JunMax>
+    <JulMax>87.16</JulMax>
+    <AugMax>88.19</AugMax>
+    <SepMax>84.33</SepMax>
+    <OctMax>80.97</OctMax>
+    <NovMax>69.50</NovMax>
+    <DecMax>66.13</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>42.26</JanMin>
+    <FebMin>56.32</FebMin>
+    <MarMin>58.45</MarMin>
+    <AprMin>63.83</AprMin>
+    <MayMin>69.48</MayMin>
+    <JunMin>74.37</JunMin>
+    <JulMin>74.55</JulMin>
+    <AugMin>75.29</AugMin>
+    <SepMin>72.20</SepMin>
+    <OctMin>67.19</OctMin>
+    <NovMin>53.83</NovMin>
+    <DecMin>50.71</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.94</JanRain>
+    <FebRain>2.53</FebRain>
+    <MarRain>3.65</MarRain>
+    <AprRain>2.64</AprRain>
+    <MayRain>0.28</MayRain>
+    <JunRain>4.16</JunRain>
+    <JulRain>11.42</JulRain>
+    <AugRain>5.82</AugRain>
+    <SepRain>2.78</SepRain>
+    <OctRain>2.24</OctRain>
+    <NovRain>3.88</NovRain>
+    <DecRain>0.72</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.28</JanWind>
+    <FebWind>7.98</FebWind>
+    <MarWind>8.49</MarWind>
+    <AprWind>9.69</AprWind>
+    <MayWind>9.03</MayWind>
+    <JunWind>8.26</JunWind>
+    <JulWind>7.43</JulWind>
+    <AugWind>7.44</AugWind>
+    <SepWind>6.84</SepWind>
+    <OctWind>7.17</OctWind>
+    <NovWind>8.58</NovWind>
+    <DecWind>6.80</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>37.07</JanDew>
+    <FebDew>40.20</FebDew>
+    <MarDew>57.51</MarDew>
+    <AprDew>60.36</AprDew>
+    <MayDew>68.36</MayDew>
+    <JunDew>72.93</JunDew>
+    <JulDew>75.08</JulDew>
+    <AugDew>75.90</AugDew>
+    <SepDew>71.87</SepDew>
+    <OctDew>66.47</OctDew>
+    <NovDew>54.77</NovDew>
+    <DecDew>31.45</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>62.40</JanSea>
+    <FebSea>62.40</FebSea>
+    <MarSea>64.80</MarSea>
+    <AprSea>70.90</AprSea>
+    <MaySea>75.90</MaySea>
+    <JunSea>80.60</JunSea>
+    <JulSea>82.80</JulSea>
+    <AugSea>84.20</AugSea>
+    <SepSea>83.10</SepSea>
+    <OctSea>79.50</OctSea>
+    <NovSea>72.90</NovSea>
+    <DecSea>66.40</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Daytona Beach, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>73.13</JanMax>
+    <FebMax>78.57</FebMax>
+    <MarMax>78.32</MarMax>
+    <AprMax>79.83</AprMax>
+    <MayMax>85.52</MayMax>
+    <JunMax>90.10</JunMax>
+    <JulMax>88.19</JulMax>
+    <AugMax>90.68</AugMax>
+    <SepMax>87.20</SepMax>
+    <OctMax>84.06</OctMax>
+    <NovMax>77.33</NovMax>
+    <DecMax>70.45</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>51.39</JanMin>
+    <FebMin>57.32</FebMin>
+    <MarMin>58.58</MarMin>
+    <AprMin>64.53</AprMin>
+    <MayMin>69.32</MayMin>
+    <JunMin>73.63</JunMin>
+    <JulMin>74.39</JulMin>
+    <AugMin>75.32</AugMin>
+    <SepMin>73.13</SepMin>
+    <OctMin>68.26</OctMin>
+    <NovMin>64.77</NovMin>
+    <DecMin>52.94</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>1.01</JanRain>
+    <FebRain>0.93</FebRain>
+    <MarRain>1.61</MarRain>
+    <AprRain>3.39</AprRain>
+    <MayRain>2.85</MayRain>
+    <JunRain>1.77</JunRain>
+    <JulRain>7.08</JulRain>
+    <AugRain>7.01</AugRain>
+    <SepRain>3.34</SepRain>
+    <OctRain>2.51</OctRain>
+    <NovRain>4.05</NovRain>
+    <DecRain>1.10</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>5.76</JanWind>
+    <FebWind>7.11</FebWind>
+    <MarWind>7.36</MarWind>
+    <AprWind>7.96</AprWind>
+    <MayWind>6.73</MayWind>
+    <JunWind>6.67</JunWind>
+    <JulWind>5.89</JulWind>
+    <AugWind>4.50</AugWind>
+    <SepWind>5.55</SepWind>
+    <OctWind>5.89</OctWind>
+    <NovWind>9.08</NovWind>
+    <DecWind>5.73</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>52.23</JanDew>
+    <FebDew>58.10</FebDew>
+    <MarDew>57.78</MarDew>
+    <AprDew>60.27</AprDew>
+    <MayDew>67.49</MayDew>
+    <JunDew>71.24</JunDew>
+    <JulDew>73.20</JulDew>
+    <AugDew>73.74</AugDew>
+    <SepDew>71.61</SepDew>
+    <OctDew>66.92</OctDew>
+    <NovDew>64.07</NovDew>
+    <DecDew>53.13</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>62.40</JanSea>
+    <FebSea>62.40</FebSea>
+    <MarSea>64.80</MarSea>
+    <AprSea>70.90</AprSea>
+    <MaySea>75.90</MaySea>
+    <JunSea>80.60</JunSea>
+    <JulSea>82.80</JulSea>
+    <AugSea>84.20</AugSea>
+    <SepSea>83.10</SepSea>
+    <OctSea>79.50</OctSea>
+    <NovSea>72.90</NovSea>
+    <DecSea>66.40</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Melbourne, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>74.52</JanMax>
+    <FebMax>79.18</FebMax>
+    <MarMax>79.61</MarMax>
+    <AprMax>79.83</AprMax>
+    <MayMax>85.35</MayMax>
+    <JunMax>87.77</JunMax>
+    <JulMax>90.06</JulMax>
+    <AugMax>90.10</AugMax>
+    <SepMax>87.40</SepMax>
+    <OctMax>81.74</OctMax>
+    <NovMax>79.60</NovMax>
+    <DecMax>73.13</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>54.74</JanMin>
+    <FebMin>60.21</FebMin>
+    <MarMin>63.32</MarMin>
+    <AprMin>66.63</AprMin>
+    <MayMin>71.03</MayMin>
+    <JunMin>74.27</JunMin>
+    <JulMin>76.45</JulMin>
+    <AugMin>76.55</AugMin>
+    <SepMin>73.93</SepMin>
+    <OctMin>67.32</OctMin>
+    <NovMin>67.40</NovMin>
+    <DecMin>56.48</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.43</JanRain>
+    <FebRain>1.61</FebRain>
+    <MarRain>4.22</MarRain>
+    <AprRain>5.83</AprRain>
+    <MayRain>0.78</MayRain>
+    <JunRain>5.11</JunRain>
+    <JulRain>1.97</JulRain>
+    <AugRain>4.87</AugRain>
+    <SepRain>3.53</SepRain>
+    <OctRain>1.88</OctRain>
+    <NovRain>6.03</NovRain>
+    <DecRain>2.30</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.53</JanWind>
+    <FebWind>8.83</FebWind>
+    <MarWind>10.42</MarWind>
+    <AprWind>10.89</AprWind>
+    <MayWind>9.71</MayWind>
+    <JunWind>8.80</JunWind>
+    <JulWind>8.06</JulWind>
+    <AugWind>7.35</AugWind>
+    <SepWind>3.53</SepWind>
+    <OctWind>7.92</OctWind>
+    <NovWind>10.57</NovWind>
+    <DecWind>7.82</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>55.86</JanDew>
+    <FebDew>60.84</FebDew>
+    <MarDew>60.59</MarDew>
+    <AprDew>62.71</AprDew>
+    <MayDew>68.48</MayDew>
+    <JunDew>72.10</JunDew>
+    <JulDew>74.04</JulDew>
+    <AugDew>74.56</AugDew>
+    <SepDew>72.27</SepDew>
+    <OctDew>66.21</OctDew>
+    <NovDew>66.85</NovDew>
+    <DecDew>56.77</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>71.40</JanSea>
+    <FebSea>71.40</FebSea>
+    <MarSea>72.90</MarSea>
+    <AprSea>75.70</AprSea>
+    <MaySea>78.40</MaySea>
+    <JunSea>81.30</JunSea>
+    <JulSea>83.10</JulSea>
+    <AugSea>84.70</AugSea>
+    <SepSea>84.00</SepSea>
+    <OctSea>81.70</OctSea>
+    <NovSea>77.40</NovSea>
+    <DecSea>74.10</DecSea>
+  </Beach>
+  <Beach>
+    <Name>West Palm Beach, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>77.77</JanMax>
+    <FebMax>78.50</FebMax>
+    <MarMax>82.97</MarMax>
+    <AprMax>82.83</AprMax>
+    <MayMax>86.39</MayMax>
+    <JunMax>88.13</JunMax>
+    <JulMax>91.10</JulMax>
+    <AugMax>91.48</AugMax>
+    <SepMax>88.90</SepMax>
+    <OctMax>84.74</OctMax>
+    <NovMax>03.53</NovMax>
+    <DecMax>77.16</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>61.61</JanMin>
+    <FebMin>65.96</FebMin>
+    <MarMin>67.65</MarMin>
+    <AprMin>71.07</AprMin>
+    <MayMin>73.29</MayMin>
+    <JunMin>75.43</JunMin>
+    <JulMin>79.42</JulMin>
+    <AugMin>79.35</AugMin>
+    <SepMin>75.73</SepMin>
+    <OctMin>71.65</OctMin>
+    <NovMin>71.53</NovMin>
+    <DecMin>62.97</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.21</JanRain>
+    <FebRain>1.97</FebRain>
+    <MarRain>0.12</MarRain>
+    <AprRain>3.92</AprRain>
+    <MayRain>2.78</MayRain>
+    <JunRain>8.85</JunRain>
+    <JulRain>2.17</JulRain>
+    <AugRain>3.12</AugRain>
+    <SepRain>7.98</SepRain>
+    <OctRain>2.66</OctRain>
+    <NovRain>5.62</NovRain>
+    <DecRain>3.99</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.41</JanWind>
+    <FebWind>10.83</FebWind>
+    <MarWind>9.96</MarWind>
+    <AprWind>11.83</AprWind>
+    <MayWind>10.30</MayWind>
+    <JunWind>7.87</JunWind>
+    <JulWind>9.78</JulWind>
+    <AugWind>8.76</AugWind>
+    <SepWind>7.69</SepWind>
+    <OctWind>8.40</OctWind>
+    <NovWind>9.66</NovWind>
+    <DecWind>8.86</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>59.31</JanDew>
+    <FebDew>60.53</FebDew>
+    <MarDew>62.70</MarDew>
+    <AprDew>64.38</AprDew>
+    <MayDew>69.07</MayDew>
+    <JunDew>72.33</JunDew>
+    <JulDew>73.99</JulDew>
+    <AugDew>74.24</AugDew>
+    <SepDew>73.63</SepDew>
+    <OctDew>68.14</OctDew>
+    <NovDew>68.95</NovDew>
+    <DecDew>60.86</DecDew>
+    
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>71.60</JanSea>
+    <FebSea>71.60</FebSea>
+    <MarSea>73.20</MarSea>
+    <AprSea>77.00</AprSea>
+    <MaySea>79.90</MaySea>
+    <JunSea>82.60</JunSea>
+    <JulSea>84.60</JulSea>
+    <AugSea>86.00</AugSea>
+    <SepSea>84.70</SepSea>
+    <OctSea>82.20</OctSea>
+    <NovSea>77.70</NovSea>
+    <DecSea>74.30</DecSea>
+    
+  </Beach>
+  <Beach>
+    <Name>Miami Beach, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>79.55</JanMax>
+    <FebMax>82.04</FebMax>
+    <MarMax>83.19</MarMax>
+    <AprMax>84.10</AprMax>
+    <MayMax>87.39</MayMax>
+    <JunMax>88.20</JunMax>
+    <JulMax>90.00</JulMax>
+    <AugMax>90.42</AugMax>
+    <SepMax>90.37</SepMax>
+    <OctMax>86.35</OctMax>
+    <NovMax>84.80</NovMax>
+    <DecMax>78.23</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>64.74</JanMin>
+    <FebMin>69.32</FebMin>
+    <MarMin>70.16</MarMin>
+    <AprMin>72.80</AprMin>
+    <MayMin>74.84</MayMin>
+    <JunMin>76.13</JunMin>
+    <JulMin>79.58</JulMin>
+    <AugMin>79.06</AugMin>
+    <SepMin>77.80</SepMin>
+    <OctMin>74.29</OctMin>
+    <NovMin>72.83</NovMin>
+    <DecMin>66.06</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.05</JanRain>
+    <FebRain>5.72</FebRain>
+    <MarRain>4.50</MarRain>
+    <AprRain>4.29</AprRain>
+    <MayRain>4.78</MayRain>
+    <JunRain>15.44</JunRain>
+    <JulRain>4.81</JulRain>
+    <AugRain>6.30</AugRain>
+    <SepRain>12.82</SepRain>
+    <OctRain>4.85</OctRain>
+    <NovRain>8.17</NovRain>
+    <DecRain>2.05</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.97</JanWind>
+    <FebWind>7.88</FebWind>
+    <MarWind>8.08</MarWind>
+    <AprWind>10.46</AprWind>
+    <MayWind>8.84</MayWind>
+    <JunWind>6.38</JunWind>
+    <JulWind>9.36</JulWind>
+    <AugWind>8.21</AugWind>
+    <SepWind>6.39</SepWind>
+    <OctWind>6.37</OctWind>
+    <NovWind>6.94</NovWind>
+    <DecWind>6.44</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>60.97</JanDew>
+    <FebDew>64.96</FebDew>
+    <MarDew>64.41</MarDew>
+    <AprDew>66.69</AprDew>
+    <MayDew>70.88</MayDew>
+    <JunDew>73.31</JunDew>
+    <JulDew>74.33</JulDew>
+    <AugDew>75.66</AugDew>
+    <SepDew>74.40</SepDew>
+    <OctDew>69.28</OctDew>
+    <NovDew>70.78</NovDew>
+    <DecDew>62.95</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>72.00</JanSea>
+    <FebSea>71.80</FebSea>
+    <MarSea>73.80</MarSea>
+    <AprSea>77.70</AprSea>
+    <MaySea>80.80</MaySea>
+    <JunSea>83.30</JunSea>
+    <JulSea>85.30</JulSea>
+    <AugSea>86.70</AugSea>
+    <SepSea>85.50</SepSea>
+    <OctSea>82.80</OctSea>
+    <NovSea>78.30</NovSea>
+    <DecSea>74.70</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Marathon, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>77.10</JanMax>
+    <FebMax>76.64</FebMax>
+    <MarMax>81.00</MarMax>
+    <AprMax>82.73</AprMax>
+    <MayMax>84.87</MayMax>
+    <JunMax>86.47</JunMax>
+    <JulMax>88.71</JulMax>
+    <AugMax>88.65</AugMax>
+    <SepMax>87.97</SepMax>
+    <OctMax>84.00</OctMax>
+    <NovMax>82.37</NovMax>
+    <DecMax>77.10</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>65.32</JanMin>
+    <FebMin>60.82</FebMin>
+    <MarMin>73.55</MarMin>
+    <AprMin>74.50</AprMin>
+    <MayMin>74.90</MayMin>
+    <JunMin>78.77</JunMin>
+    <JulMin>79.74</JulMin>
+    <AugMin>81.52</AugMin>
+    <SepMin>78.83</SepMin>
+    <OctMin>75.87</OctMin>
+    <NovMin>75.43</NovMin>
+    <DecMin>69.03</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.08</JanRain>
+    <FebRain>1.35</FebRain>
+    <MarRain>0.25</MarRain>
+    <AprRain>1.11</AprRain>
+    <MayRain>1.59</MayRain>
+    <JunRain>6.73</JunRain>
+    <JulRain>2.37</JulRain>
+    <AugRain>2.33</AugRain>
+    <SepRain>12.06</SepRain>
+    <OctRain>2.78</OctRain>
+    <NovRain>1.40</NovRain>
+    <DecRain>4.18</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>10.04</JanWind>
+    <FebWind>10.54</FebWind>
+    <MarWind>10.18</MarWind>
+    <AprWind>10.76</AprWind>
+    <MayWind>10.09</MayWind>
+    <JunWind>7.83</JunWind>
+    <JulWind>10.33</JulWind>
+    <AugWind>8.96</AugWind>
+    <SepWind>9.05</SepWind>
+    <OctWind>8.42</OctWind>
+    <NovWind>9.16</NovWind>
+    <DecWind>8.89</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>68.40</JanDew>
+    <FebDew>64.99</FebDew>
+    <MarDew>67.92</MarDew>
+    <AprDew>67.63</AprDew>
+    <MayDew>72.99</MayDew>
+    <JunDew>75.12</JunDew>
+    <JulDew>60.91</JulDew>
+    <AugDew>72.59</AugDew>
+    <SepDew>76.48</SepDew>
+    <OctDew>72.70</OctDew>
+    <NovDew>73.91</NovDew>
+    <DecDew>67.61</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>71.20</JanSea>
+    <FebSea>71.20</FebSea>
+    <MarSea>73.20</MarSea>
+    <AprSea>77.70</AprSea>
+    <MaySea>80.60</MaySea>
+    <JunSea>83.30</JunSea>
+    <JulSea>85.50</JulSea>
+    <AugSea>86.90</AugSea>
+    <SepSea>85.50</SepSea>
+    <OctSea>82.80</OctSea>
+    <NovSea>78.40</NovSea>
+    <DecSea>74.50</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Sanibel Island, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>77.26</JanMax>
+    <FebMax>81.75</FebMax>
+    <MarMax>83.39</MarMax>
+    <AprMax>86.77</AprMax>
+    <MayMax>89.06</MayMax>
+    <JunMax>90.20</JunMax>
+    <JulMax>92.35</JulMax>
+    <AugMax>92.39</AugMax>
+    <SepMax>90.50</SepMax>
+    <OctMax>85.39</OctMax>
+    <NovMax>82.43</NovMax>
+    <DecMax>76.42</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>57.35</JanMin>
+    <FebMin>61.82</FebMin>
+    <MarMin>62.68</MarMin>
+    <AprMin>65.83</AprMin>
+    <MayMin>70.52</MayMin>
+    <JunMin>74.50</JunMin>
+    <JulMin>76.45</JulMin>
+    <AugMin>76.58</AugMin>
+    <SepMin>75.68</SepMin>
+    <OctMin>69.29</OctMin>
+    <NovMin>67.87</NovMin>
+    <DecMin>59.32</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.15</JanRain>
+    <FebRain>0.17</FebRain>
+    <MarRain>0.27</MarRain>
+    <AprRain>3.11</AprRain>
+    <MayRain>8.96</MayRain>
+    <JunRain>13.39</JunRain>
+    <JulRain>7.27</JulRain>
+    <AugRain>4.63</AugRain>
+    <SepRain>13.70</SepRain>
+    <OctRain>1.23</OctRain>
+    <NovRain>2.36</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.56</JanWind>
+    <FebWind>7.08</FebWind>
+    <MarWind>7.36</MarWind>
+    <AprWind>8.50</AprWind>
+    <MayWind>6.84</MayWind>
+    <JunWind>6.53</JunWind>
+    <JulWind>6.93</JulWind>
+    <AugWind>6.27</AugWind>
+    <SepWind>7.07</SepWind>
+    <OctWind>6.87</OctWind>
+    <NovWind>7.42</NovWind>
+    <DecWind>6.66</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>57.22</JanDew>
+    <FebDew>62.67</FebDew>
+    <MarDew>61.83</MarDew>
+    <AprDew>63.06</AprDew>
+    <MayDew>68.46</MayDew>
+    <JunDew>73.33</JunDew>
+    <JulDew>75.32</JulDew>
+    <AugDew>75.32</AugDew>
+    <SepDew>74.93</SepDew>
+    <OctDew>65.54</OctDew>
+    <NovDew>67.86</NovDew>
+    <DecDew>58.45</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>65.10</JanSea>
+    <FebSea>65.50</FebSea>
+    <MarSea>67.60</MarSea>
+    <AprSea>73.90</AprSea>
+    <MaySea>78.80</MaySea>
+    <JunSea>82.60</JunSea>
+    <JulSea>85.30</JulSea>
+    <AugSea>86.90</AugSea>
+    <SepSea>84.90</SepSea>
+    <OctSea>81.90</OctSea>
+    <NovSea>75.90</NovSea>
+    <DecSea>70.00</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Sarasota, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>73.32</JanMax>
+    <FebMax>75.43</FebMax>
+    <MarMax>80.23</MarMax>
+    <AprMax>83.07</AprMax>
+    <MayMax>86.45</MayMax>
+    <JunMax>89.07</JunMax>
+    <JulMax>90.65</JulMax>
+    <AugMax>89.81</AugMax>
+    <SepMax>86.63</SepMax>
+    <OctMax>83.16</OctMax>
+    <NovMax>80.10</NovMax>
+    <DecMax>73.10</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>51.55</JanMin>
+    <FebMin>56.75</FebMin>
+    <MarMin>62.26</MarMin>
+    <AprMin>63.30</AprMin>
+    <MayMin>70.65</MayMin>
+    <JunMin>74.93</JunMin>
+    <JulMin>75.90</JulMin>
+    <AugMin>75.65</AugMin>
+    <SepMin>73.70</SepMin>
+    <OctMin>66.94</OctMin>
+    <NovMin>65.67</NovMin>
+    <DecMin>55.23</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>1.15</JanRain>
+    <FebRain>0.71</FebRain>
+    <MarRain>1.59</MarRain>
+    <AprRain>0.98</AprRain>
+    <MayRain>3.77</MayRain>
+    <JunRain>7.33</JunRain>
+    <JulRain>5.80</JulRain>
+    <AugRain>7.29</AugRain>
+    <SepRain>14.54</SepRain>
+    <OctRain>1.78</OctRain>
+    <NovRain>2.64</NovRain>
+    <DecRain>2.61</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.70</JanWind>
+    <FebWind>8.47</FebWind>
+    <MarWind>8.41</MarWind>
+    <AprWind>9.67</AprWind>
+    <MayWind>8.41</MayWind>
+    <JunWind>7.78</JunWind>
+    <JulWind>7.59</JulWind>
+    <AugWind>6.80</AugWind>
+    <SepWind>8.03</SepWind>
+    <OctWind>6.85</OctWind>
+    <NovWind>8.27</NovWind>
+    <DecWind>7.19</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>55.12</JanDew>
+    <FebDew>55.70</FebDew>
+    <MarDew>60.21</MarDew>
+    <AprDew>62.95</AprDew>
+    <MayDew>68.45</MayDew>
+    <JunDew>72.72</JunDew>
+    <JulDew>73.75</JulDew>
+    <AugDew>74.08</AugDew>
+    <SepDew>72.48</SepDew>
+    <OctDew>64.47</OctDew>
+    <NovDew>64.37</NovDew>
+    <DecDew>55.42</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>63.90</JanSea>
+    <FebSea>64.40</FebSea>
+    <MarSea>66.70</MarSea>
+    <AprSea>73.00</AprSea>
+    <MaySea>78.10</MaySea>
+    <JunSea>82.40</JunSea>
+    <JulSea>85.30</JulSea>
+    <AugSea>86.70</AugSea>
+    <SepSea>84.60</SepSea>
+    <OctSea>81.10</OctSea>
+    <NovSea>74.80</NovSea>
+    <DecSea>68.50</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Clearwater, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>72.90</JanMax>
+    <FebMax>79.00</FebMax>
+    <MarMax>79.39</MarMax>
+    <AprMax>81.87</AprMax>
+    <MayMax>87.19</MayMax>
+    <JunMax>90.40</JunMax>
+    <JulMax>90.68</JulMax>
+    <AugMax>89.71</AugMax>
+    <SepMax>86.33</SepMax>
+    <OctMax>83.03</OctMax>
+    <NovMax>78.47</NovMax>
+    <DecMax>71.58</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>55.65</JanMin>
+    <FebMin>60.54</FebMin>
+    <MarMin>63.32</MarMin>
+    <AprMin>65.73</AprMin>
+    <MayMin>72.73</MayMin>
+    <JunMin>76.40</JunMin>
+    <JulMin>74.06</JulMin>
+    <AugMin>76.00</AugMin>
+    <SepMin>71.83</SepMin>
+    <OctMin>66.71</OctMin>
+    <NovMin>65.60</NovMin>
+    <DecMin>57.87</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>1.46</JanRain>
+    <FebRain>0.21</FebRain>
+    <MarRain>0.10</MarRain>
+    <AprRain>3.26</AprRain>
+    <MayRain>0.03</MayRain>
+    <JunRain>1.17</JunRain>
+    <JulRain>0.50</JulRain>
+    <AugRain>8.93</AugRain>
+    <SepRain>12.71</SepRain>
+    <OctRain>1.55</OctRain>
+    <NovRain>5.31</NovRain>
+    <DecRain>1.65</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.74</JanWind>
+    <FebWind>8.35</FebWind>
+    <MarWind>9.38</MarWind>
+    <AprWind>9.08</AprWind>
+    <MayWind>7.91</MayWind>
+    <JunWind>7.50</JunWind>
+    <JulWind>6.99</JulWind>
+    <AugWind>6.49</AugWind>
+    <SepWind>7.95</SepWind>
+    <OctWind>7.08</OctWind>
+    <NovWind>8.49</NovWind>
+    <DecWind>7.57</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>55.78</JanDew>
+    <FebDew>61.23</FebDew>
+    <MarDew>61.26</MarDew>
+    <AprDew>62.75</AprDew>
+    <MayDew>70.50</MayDew>
+    <JunDew>73.93</JunDew>
+    <JulDew>75.23</JulDew>
+    <AugDew>74.61</AugDew>
+    <SepDew>72.66</SepDew>
+    <OctDew>66.00</OctDew>
+    <NovDew>65.75</NovDew>
+    <DecDew>55.89</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>63.90</JanSea>
+    <FebSea>64.40</FebSea>
+    <MarSea>66.70</MarSea>
+    <AprSea>73.00</AprSea>
+    <MaySea>78.10</MaySea>
+    <JunSea>82.40</JunSea>
+    <JulSea>85.30</JulSea>
+    <AugSea>86.70</AugSea>
+    <SepSea>84.60</SepSea>
+    <OctSea>81.10</OctSea>
+    <NovSea>74.80</NovSea>
+    <DecSea>68.50</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Apalachicola, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>70.65</JanMax>
+    <FebMax>75.29</FebMax>
+    <MarMax>76.90</MarMax>
+    <AprMax>79.60</AprMax>
+    <MayMax>87.06</MayMax>
+    <JunMax>93.67</JunMax>
+    <JulMax>90.10</JulMax>
+    <AugMax>90.35</AugMax>
+    <SepMax>88.17</SepMax>
+    <OctMax>81.84</OctMax>
+    <NovMax>74.20</NovMax>
+    <DecMax>67.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>45.03</JanMin>
+    <FebMin>51.79</FebMin>
+    <MarMin>54.68</MarMin>
+    <AprMin>56.63</AprMin>
+    <MayMin>65.65</MayMin>
+    <JunMin>72.93</JunMin>
+    <JulMin>73.77</JulMin>
+    <AugMin>73.42</AugMin>
+    <SepMin>69.97</SepMin>
+    <OctMin>52.71</OctMin>
+    <NovMin>54.27</NovMin>
+    <DecMin>44.94</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>6.70</JanRain>
+    <FebRain>3.90</FebRain>
+    <MarRain>3.46</MarRain>
+    <AprRain>3.14</AprRain>
+    <MayRain>3.19</MayRain>
+    <JunRain>9.50</JunRain>
+    <JulRain>12.98</JulRain>
+    <AugRain>8.00</AugRain>
+    <SepRain>2.30</SepRain>
+    <OctRain>0.22</OctRain>
+    <NovRain>1.54</NovRain>
+    <DecRain>3.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>5.40</JanWind>
+    <FebWind>6.11</FebWind>
+    <MarWind>6.21</MarWind>
+    <AprWind>6.99</AprWind>
+    <MayWind>5.29</MayWind>
+    <JunWind>5.46</JunWind>
+    <JulWind>4.71</JulWind>
+    <AugWind>4.80</AugWind>
+    <SepWind>5.69</SepWind>
+    <OctWind>4.84</OctWind>
+    <NovWind>6.49</NovWind>
+    <DecWind>4.83</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>48.30</JanDew>
+    <FebDew>54.10</FebDew>
+    <MarDew>53.72</MarDew>
+    <AprDew>54.80</AprDew>
+    <MayDew>65.14</MayDew>
+    <JunDew>71.09</JunDew>
+    <JulDew>74.35</JulDew>
+    <AugDew>73.69</AugDew>
+    <SepDew>66.50</SepDew>
+    <OctDew>52.24</OctDew>
+    <NovDew>54.16</NovDew>
+    <DecDew>45.89</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>63.70</JanSea>
+    <FebSea>63.70</FebSea>
+    <MarSea>66.20</MarSea>
+    <AprSea>70.50</AprSea>
+    <MaySea>76.50</MaySea>
+    <JunSea>82.00</JunSea>
+    <JulSea>84.90</JulSea>
+    <AugSea>86.00</AugSea>
+    <SepSea>83.50</SepSea>
+    <OctSea>79.90</OctSea>
+    <NovSea>73.80</NovSea>
+    <DecSea>67.60</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Panama City, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>69.00</JanMax>
+    <FebMax>72.54</FebMax>
+    <MarMax>74.71</MarMax>
+    <AprMax>77.47</AprMax>
+    <MayMax>83.71</MayMax>
+    <JunMax>90.30</JunMax>
+    <JulMax>88.06</JulMax>
+    <AugMax>88.48</AugMax>
+    <SepMax>87.77</SepMax>
+    <OctMax>81.13</OctMax>
+    <NovMax>73.47</NovMax>
+    <DecMax>67.35</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>46.35</JanMin>
+    <FebMin>53.50</FebMin>
+    <MarMin>55.65</MarMin>
+    <AprMin>56.17</AprMin>
+    <MayMin>65.71</MayMin>
+    <JunMin>72.37</JunMin>
+    <JulMin>73.87</JulMin>
+    <AugMin>73.45</AugMin>
+    <SepMin>69.90</SepMin>
+    <OctMin>53.35</OctMin>
+    <NovMin>53.10</NovMin>
+    <DecMin>46.74</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.70</JanRain>
+    <FebRain>1.55</FebRain>
+    <MarRain>3.57</MarRain>
+    <AprRain>2.58</AprRain>
+    <MayRain>9.13</MayRain>
+    <JunRain>5.14</JunRain>
+    <JulRain>3.91</JulRain>
+    <AugRain>6.83</AugRain>
+    <SepRain>6.10</SepRain>
+    <OctRain>2.07</OctRain>
+    <NovRain>1.33</NovRain>
+    <DecRain>4.88</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.49</JanWind>
+    <FebWind>8.04</FebWind>
+    <MarWind>7.86</MarWind>
+    <AprWind>7.31</AprWind>
+    <MayWind>5.97</MayWind>
+    <JunWind>5.63</JunWind>
+    <JulWind>4.82</JulWind>
+    <AugWind>4.60</AugWind>
+    <SepWind>6.34</SepWind>
+    <OctWind>5.81</OctWind>
+    <NovWind>7.38</NovWind>
+    <DecWind>6.16</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>49.26</JanDew>
+    <FebDew>55.40</FebDew>
+    <MarDew>55.39</MarDew>
+    <AprDew>57.97</AprDew>
+    <MayDew>67.78</MayDew>
+    <JunDew>72.71</JunDew>
+    <JulDew>74.22</JulDew>
+    <AugDew>73.74</AugDew>
+    <SepDew>66.84</SepDew>
+    <OctDew>53.20</OctDew>
+    <NovDew>53.22</NovDew>
+    <DecDew>47.14</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>61.90</JanSea>
+    <FebSea>61.20</FebSea>
+    <MarSea>63.90</MarSea>
+    <AprSea>69.30</AprSea>
+    <MaySea>75.40</MaySea>
+    <JunSea>81.70</JunSea>
+    <JulSea>84.60</JulSea>
+    <AugSea>85.50</AugSea>
+    <SepSea>82.80</SepSea>
+    <OctSea>78.40</OctSea>
+    <NovSea>71.40</NovSea>
+    <DecSea>65.70</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Pensacola, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>69.35</JanMax>
+    <FebMax>72.54</FebMax>
+    <MarMax>74.13</MarMax>
+    <AprMax>78.47</AprMax>
+    <MayMax>82.03</MayMax>
+    <JunMax>91.67</JunMax>
+    <JulMax>89.16</JulMax>
+    <AugMax>88.65</AugMax>
+    <SepMax>88.30</SepMax>
+    <OctMax>79.39</OctMax>
+    <NovMax>73.13</NovMax>
+    <DecMax>65.94</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>50.45</JanMin>
+    <FebMin>56.29</FebMin>
+    <MarMin>58.48</MarMin>
+    <AprMin>62.03</AprMin>
+    <MayMin>67.16</MayMin>
+    <JunMin>76.73</JunMin>
+    <JulMin>77.39</JulMin>
+    <AugMin>76.45</AugMin>
+    <SepMin>72.57</SepMin>
+    <OctMin>58.71</OctMin>
+    <NovMin>55.73</NovMin>
+    <DecMin>50.06</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>4.07</JanRain>
+    <FebRain>2.33</FebRain>
+    <MarRain>3.15</MarRain>
+    <AprRain>4.03</AprRain>
+    <MayRain>8.53</MayRain>
+    <JunRain>6.55</JunRain>
+    <JulRain>12.01</JulRain>
+    <AugRain>11.76</AugRain>
+    <SepRain>1.25</SepRain>
+    <OctRain>1.15</OctRain>
+    <NovRain>1.59</NovRain>
+    <DecRain>6.69</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.39</JanWind>
+    <FebWind>9.37</FebWind>
+    <MarWind>9.25</MarWind>
+    <AprWind>9.20</AprWind>
+    <MayWind>9.02</MayWind>
+    <JunWind>6.91</JunWind>
+    <JulWind>5.95</JulWind>
+    <AugWind>5.41</AugWind>
+    <SepWind>5.97</SepWind>
+    <OctWind>6.68</OctWind>
+    <NovWind>7.91</NovWind>
+    <DecWind>7.07</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>51.01</JanDew>
+    <FebDew>55.82</FebDew>
+    <MarDew>56.34</MarDew>
+    <AprDew>58.61</AprDew>
+    <MayDew>64.01</MayDew>
+    <JunDew>74.09</JunDew>
+    <JulDew>76.00</JulDew>
+    <AugDew>76.45</AugDew>
+    <SepDew>68.04</SepDew>
+    <OctDew>54.60</OctDew>
+    <NovDew>53.49</NovDew>
+    <DecDew>48.61</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>60.40</JanSea>
+    <FebSea>59.90</FebSea>
+    <MarSea>63.50</MarSea>
+    <AprSea>70.30</AprSea>
+    <MaySea>76.50</MaySea>
+    <JunSea>82.90</JunSea>
+    <JulSea>85.30</JulSea>
+    <AugSea>86.20</AugSea>
+    <SepSea>82.90</SepSea>
+    <OctSea>78.30</OctSea>
+    <NovSea>70.20</NovSea>
+    <DecSea>64.40</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Pascagoula, MS</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>69.48</JanMax>
+    <FebMax>71.32</FebMax>
+    <MarMax>74.61</MarMax>
+    <AprMax>79.83</AprMax>
+    <MayMax>87.65</MayMax>
+    <JunMax>93.77</JunMax>
+    <JulMax>91.35</JulMax>
+    <AugMax>89.26</AugMax>
+    <SepMax>89.27</SepMax>
+    <OctMax>82.58</OctMax>
+    <NovMax>71.67</NovMax>
+    <DecMax>65.48</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>45.42</JanMin>
+    <FebMin>50.00</FebMin>
+    <MarMin>53.45</MarMin>
+    <AprMin>56.90</AprMin>
+    <MayMin>65.48</MayMin>
+    <JunMin>73.03</JunMin>
+    <JulMin>75.23</JulMin>
+    <AugMin>74.39</AugMin>
+    <SepMin>66.60</SepMin>
+    <OctMin>62.19</OctMin>
+    <NovMin>48.73</NovMin>
+    <DecMin>46.06</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.45</JanRain>
+    <FebRain>2.42</FebRain>
+    <MarRain>5.41</MarRain>
+    <AprRain>3.69</AprRain>
+    <MayRain>8.49</MayRain>
+    <JunRain>7.34</JunRain>
+    <JulRain>6.31</JulRain>
+    <AugRain>16.20</AugRain>
+    <SepRain>1.34</SepRain>
+    <OctRain>9.29</OctRain>
+    <NovRain>7.72</NovRain>
+    <DecRain>4.96</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>4.61</JanWind>
+    <FebWind>6.05</FebWind>
+    <MarWind>5.62</MarWind>
+    <AprWind>6.13</AprWind>
+    <MayWind>4.47</MayWind>
+    <JunWind>3.45</JunWind>
+    <JulWind>3.00</JulWind>
+    <AugWind>3.09</AugWind>
+    <SepWind>3.59</SepWind>
+    <OctWind>3.69</OctWind>
+    <NovWind>5.29</NovWind>
+    <DecWind>4.48</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>50.19</JanDew>
+    <FebDew>54.41</FebDew>
+    <MarDew>56.02</MarDew>
+    <AprDew>58.29</AprDew>
+    <MayDew>69.08</MayDew>
+    <JunDew>74.18</JunDew>
+    <JulDew>76.38</JulDew>
+    <AugDew>75.35</AugDew>
+    <SepDew>67.30</SepDew>
+    <OctDew>64.46</OctDew>
+    <NovDew>52.68</NovDew>
+    <DecDew>48.54</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>56.70</JanSea>
+    <FebSea>57.60</FebSea>
+    <MarSea>62.80</MarSea>
+    <AprSea>70.90</AprSea>
+    <MaySea>76.80</MaySea>
+    <JunSea>83.50</JunSea>
+    <JulSea>85.60</JulSea>
+    <AugSea>86.20</AugSea>
+    <SepSea>82.80</SepSea>
+    <OctSea>77.00</OctSea>
+    <NovSea>67.60</NovSea>
+    <DecSea>60.60</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Galveston, TX</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>67.68</JanMax>
+    <FebMax>67.61</FebMax>
+    <MarMax>73.90</MarMax>
+    <AprMax>80.30</AprMax>
+    <MayMax>87.35</MayMax>
+    <JunMax>92.03</JunMax>
+    <JulMax>92.39</JulMax>
+    <AugMax>91.35</AugMax>
+    <SepMax>88.27</SepMax>
+    <OctMax>79.97</OctMax>
+    <NovMax>72.77</NovMax>
+    <DecMax>66.26</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>55.94</JanMin>
+    <FebMin>52.07</FebMin>
+    <MarMin>61.74</MarMin>
+    <AprMin>70.43</AprMin>
+    <MayMin>78.29</MayMin>
+    <JunMin>82.67</JunMin>
+    <JulMin>84.35</JulMin>
+    <AugMin>79.29</AugMin>
+    <SepMin>78.30</SepMin>
+    <OctMin>67.77</OctMin>
+    <NovMin>61.80</NovMin>
+    <DecMin>54.13</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>2.65</JanRain>
+    <FebRain>1.10</FebRain>
+    <MarRain>2.04</MarRain>
+    <AprRain>2.01</AprRain>
+    <MayRain>2.99</MayRain>
+    <JunRain>0.85</JunRain>
+    <JulRain>5.55</JulRain>
+    <AugRain>6.86</AugRain>
+    <SepRain>2.50</SepRain>
+    <OctRain>1.54</OctRain>
+    <NovRain>1.26</NovRain>
+    <DecRain>3.01</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>11.50</JanWind>
+    <FebWind>11.74</FebWind>
+    <MarWind>12.84</MarWind>
+    <AprWind>13.94</AprWind>
+    <MayWind>13.75</MayWind>
+    <JunWind>10.93</JunWind>
+    <JulWind>11.66</JulWind>
+    <AugWind>10.28</AugWind>
+    <SepWind>8.05</SepWind>
+    <OctWind>10.27</OctWind>
+    <NovWind>10.02</NovWind>
+    <DecWind>11.24</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>54.13</JanDew>
+    <FebDew>55.83</FebDew>
+    <MarDew>60.38</MarDew>
+    <AprDew>64.18</AprDew>
+    <MayDew>72.44</MayDew>
+    <JunDew>74.59</JunDew>
+    <JulDew>76.26</JulDew>
+    <AugDew>75.56</AugDew>
+    <SepDew>69.98</SepDew>
+    <OctDew>60.78</OctDew>
+    <NovDew>56.30</NovDew>
+    <DecDew>52.63</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>56.50</JanSea>
+    <FebSea>57.40</FebSea>
+    <MarSea>62.80</MarSea>
+    <AprSea>71.20</AprSea>
+    <MaySea>77.40</MaySea>
+    <JunSea>83.80</JunSea>
+    <JulSea>86.00</JulSea>
+    <AugSea>87.10</AugSea>
+    <SepSea>83.50</SepSea>
+    <OctSea>77.50</OctSea>
+    <NovSea>68.70</NovSea>
+    <DecSea>60.10</DecSea>
+  </Beach>
+  <Beach>
+    <Name>Port Aransas, TX</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>75.71</JanMax>
+    <FebMax>75.21</FebMax>
+    <MarMax>80.68</MarMax>
+    <AprMax>87.40</AprMax>
+    <MayMax>90.97</MayMax>
+    <JunMax>93.83</JunMax>
+    <JulMax>96.19</JulMax>
+    <AugMax>95.19</AugMax>
+    <SepMax>91.53</SepMax>
+    <OctMax>89.32</OctMax>
+    <NovMax>74.43</NovMax>
+    <DecMax>72.71</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>57.48</JanMin>
+    <FebMin>56.71</FebMin>
+    <MarMin>63.16</MarMin>
+    <AprMin>69.67</AprMin>
+    <MayMin>76.29</MayMin>
+    <JunMin>78.00</JunMin>
+    <JulMin>79.03</JulMin>
+    <AugMin>79.00</AugMin>
+    <SepMin>74.93</SepMin>
+    <OctMin>68.71</OctMin>
+    <NovMin>60.07</NovMin>
+    <DecMin>55.77</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.27</JanRain>
+    <FebRain>0.28</FebRain>
+    <MarRain>1.15</MarRain>
+    <AprRain>3.03</AprRain>
+    <MayRain>5.14</MayRain>
+    <JunRain>0.13</JunRain>
+    <JulRain>0.26</JulRain>
+    <AugRain>2.87</AugRain>
+    <SepRain>4.56</SepRain>
+    <OctRain>9.17</OctRain>
+    <NovRain>6.86</NovRain>
+    <DecRain>0.25</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>10.07</JanWind>
+    <FebWind>12.40</FebWind>
+    <MarWind>13.08</MarWind>
+    <AprWind>13.54</AprWind>
+    <MayWind>13.58</MayWind>
+    <JunWind>9.98</JunWind>
+    <JulWind>8.41</JulWind>
+    <AugWind>9.87</AugWind>
+    <SepWind>6.16</SepWind>
+    <OctWind>8.15</OctWind>
+    <NovWind>9.62</NovWind>
+    <DecWind>9.33</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>59.86</JanDew>
+    <FebDew>57.25</FebDew>
+    <MarDew>64.99</MarDew>
+    <AprDew>68.50</AprDew>
+    <MayDew>73.76</MayDew>
+    <JunDew>74.66</JunDew>
+    <JulDew>75.17</JulDew>
+    <AugDew>75.81</AugDew>
+    <SepDew>73.25</SepDew>
+    <OctDew>68.14</OctDew>
+    <NovDew>62.52</NovDew>
+    <DecDew>57.34</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>62.10</JanSea>
+    <FebSea>61.30</FebSea>
+    <MarSea>64.90</MarSea>
+    <AprSea>72.10</AprSea>
+    <MaySea>77.70</MaySea>
+    <JunSea>83.70</JunSea>
+    <JulSea>85.30</JulSea>
+    <AugSea>86.20</AugSea>
+    <SepSea>84.60</SepSea>
+    <OctSea>80.10</OctSea>
+    <NovSea>73.00</NovSea>
+    <DecSea>66.20</DecSea>
+  </Beach>
+  <Beach>
+    <Name>South Padre Island, TX</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>75.71</JanMax>
+    <FebMax>75.21</FebMax>
+    <MarMax>80.68</MarMax>
+    <AprMax>87.40</AprMax>
+    <MayMax>90.97</MayMax>
+    <JunMax>93.83</JunMax>
+    <JulMax>96.19</JulMax>
+    <AugMax>95.19</AugMax>
+    <SepMax>91.53</SepMax>
+    <OctMax>89.32</OctMax>
+    <NovMax>74.43</NovMax>
+    <DecMax>72.71</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>57.48</JanMin>
+    <FebMin>56.71</FebMin>
+    <MarMin>63.16</MarMin>
+    <AprMin>69.67</AprMin>
+    <MayMin>76.29</MayMin>
+    <JunMin>78.00</JunMin>
+    <JulMin>79.03</JulMin>
+    <AugMin>79.00</AugMin>
+    <SepMin>74.93</SepMin>
+    <OctMin>68.71</OctMin>
+    <NovMin>60.07</NovMin>
+    <DecMin>55.77</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.27</JanRain>
+    <FebRain>0.28</FebRain>
+    <MarRain>1.15</MarRain>
+    <AprRain>3.03</AprRain>
+    <MayRain>5.14</MayRain>
+    <JunRain>0.13</JunRain>
+    <JulRain>0.26</JulRain>
+    <AugRain>2.87</AugRain>
+    <SepRain>4.56</SepRain>
+    <OctRain>9.17</OctRain>
+    <NovRain>6.86</NovRain>
+    <DecRain>0.25</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>10.07</JanWind>
+    <FebWind>12.40</FebWind>
+    <MarWind>13.08</MarWind>
+    <AprWind>13.54</AprWind>
+    <MayWind>13.58</MayWind>
+    <JunWind>9.98</JunWind>
+    <JulWind>8.41</JulWind>
+    <AugWind>9.87</AugWind>
+    <SepWind>6.16</SepWind>
+    <OctWind>8.15</OctWind>
+    <NovWind>9.62</NovWind>
+    <DecWind>9.33</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>59.86</JanDew>
+    <FebDew>57.25</FebDew>
+    <MarDew>64.99</MarDew>
+    <AprDew>68.50</AprDew>
+    <MayDew>73.76</MayDew>
+    <JunDew>74.66</JunDew>
+    <JulDew>75.17</JulDew>
+    <AugDew>75.81</AugDew>
+    <SepDew>73.25</SepDew>
+    <OctDew>68.14</OctDew>
+    <NovDew>62.52</NovDew>
+    <DecDew>57.34</DecDew>
+
+    <!--Average monthly sea temperature (F)-->
+    <JanSea>66.00</JanSea>
+    <FebSea>64.80</FebSea>
+    <MarSea>66.90</MarSea>
+    <AprSea>73.00</AprSea>
+    <MaySea>77.90</MaySea>
+    <JunSea>82.90</JunSea>
+    <JulSea>84.20</JulSea>
+    <AugSea>85.30</AugSea>
+    <SepSea>84.70</SepSea>
+    <OctSea>81.30</OctSea>
+    <NovSea>75.40</NovSea>
+    <DecSea>67.10</DecSea>
+  </Beach>
+</BeachData>

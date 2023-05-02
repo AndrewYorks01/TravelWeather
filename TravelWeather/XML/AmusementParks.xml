@@ -1,0 +1,3747 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AmusementData>
+  <Park>
+    <Name>Adventureland, IA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>72.26</MayMax>
+    <JunMax>84.20</JunMax>
+    <JulMax>86.32</JulMax>
+    <AugMax>85.48</AugMax>
+    <SepMax>77.43</SepMax>
+    <OctMax>0.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>55.26</MayMin>
+    <JunMin>64.37</JunMin>
+    <JulMin>68.13</JulMin>
+    <AugMin>66.26</AugMin>
+    <SepMin>57.90</SepMin>
+    <OctMin>0.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>2.99</MayRain>
+    <JunRain>3.10</JunRain>
+    <JulRain>2.25</JulRain>
+    <AugRain>4.04</AugRain>
+    <SepRain>3.26</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>11.00</MayWind>
+    <JunWind>9.07</JunWind>
+    <JulWind>8.08</JulWind>
+    <AugWind>7.76</AugWind>
+    <SepWind>8.63</SepWind>
+    <OctWind>0.00</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>50.48</MayDew>
+    <JunDew>59.33</JunDew>
+    <JulDew>64.39</JulDew>
+    <AugDew>63.63</AugDew>
+    <SepDew>54.63</SepDew>
+    <OctDew>0.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Alabama Adventure, AL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>84.39</MayMax>
+    <JunMax>91.00</JunMax>
+    <JulMax>91.68</JulMax>
+    <AugMax>87.10</AugMax>
+    <SepMax>87.80</SepMax>
+    <OctMax>0.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>65.94</MayMin>
+    <JunMin>71.23</JunMin>
+    <JulMin>74.68</JulMin>
+    <AugMin>72.48</AugMin>
+    <SepMin>63.40</SepMin>
+    <OctMin>0.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>2.55</MayRain>
+    <JunRain>9.38</JunRain>
+    <JulRain>6.26</JulRain>
+    <AugRain>3.03</AugRain>
+    <SepRain>2.16</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>6.58</MayWind>
+    <JunWind>4.80</JunWind>
+    <JulWind>5.76</JulWind>
+    <AugWind>3.93</AugWind>
+    <SepWind>4.63</SepWind>
+    <OctWind>0.00</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>61.53</MayDew>
+    <JunDew>67.83</JunDew>
+    <JulDew>71.46</JulDew>
+    <AugDew>70.32</AugDew>
+    <SepDew>61.37</SepDew>
+    <OctDew>0.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Busch Gardens Tampa, FL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>73.06</JanMax>
+    <FebMax>78.39</FebMax>
+    <MarMax>79.97</MarMax>
+    <AprMax>84.63</AprMax>
+    <MayMax>89.13</MayMax>
+    <JunMax>91.83</JunMax>
+    <JulMax>92.84</JulMax>
+    <AugMax>91.94</AugMax>
+    <SepMax>85.97</SepMax>
+    <OctMax>83.65</OctMax>
+    <NovMax>79.03</NovMax>
+    <DecMax>72.52</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>55.97</JanMin>
+    <FebMin>61.71</FebMin>
+    <MarMin>64.13</MarMin>
+    <AprMin>68.50</AprMin>
+    <MayMin>73.87</MayMin>
+    <JunMin>78.17</JunMin>
+    <JulMin>79.58</JulMin>
+    <AugMin>78.87</AugMin>
+    <SepMin>76.44</SepMin>
+    <OctMin>67.61</OctMin>
+    <NovMin>65.63</NovMin>
+    <DecMin>56.71</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>1.84</JanRain>
+    <FebRain>0.47</FebRain>
+    <MarRain>0.35</MarRain>
+    <AprRain>5.24</AprRain>
+    <MayRain>4.19</MayRain>
+    <JunRain>7.08</JunRain>
+    <JulRain>13.04</JulRain>
+    <AugRain>6.51</AugRain>
+    <SepRain>10.47</SepRain>
+    <OctRain>1.10</OctRain>
+    <NovRain>5.14</NovRain>
+    <DecRain>2.16</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.30</JanWind>
+    <FebWind>7.27</FebWind>
+    <MarWind>7.81</MarWind>
+    <AprWind>7.80</AprWind>
+    <MayWind>7.16</MayWind>
+    <JunWind>6.61</JunWind>
+    <JulWind>6.23</JulWind>
+    <AugWind>5.46</AugWind>
+    <SepWind>5.59</SepWind>
+    <OctWind>5.88</OctWind>
+    <NovWind>7.04</NovWind>
+    <DecWind>6.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>54.17</JanDew>
+    <FebDew>60.46</FebDew>
+    <MarDew>60.11</MarDew>
+    <AprDew>61.66</AprDew>
+    <MayDew>67.27</MayDew>
+    <JunDew>72.17</JunDew>
+    <JulDew>73.73</JulDew>
+    <AugDew>73.92</AugDew>
+    <SepDew>69.02</SepDew>
+    <OctDew>62.59</OctDew>
+    <NovDew>63.47</NovDew>
+    <DecDew>53.57</DecDew>
+  </Park>
+  <Park>
+    <Name>California's Great America, CA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>59.29</JanMax>
+    <FebMax>58.79</FebMax>
+    <MarMax>59.13</MarMax>
+    <AprMax>70.80</AprMax>
+    <MayMax>75.48</MayMax>
+    <JunMax>81.70</JunMax>
+    <JulMax>79.10</JulMax>
+    <AugMax>82.90</AugMax>
+    <SepMax>83.70</SepMax>
+    <OctMax>74.26</OctMax>
+    <NovMax>64.03</NovMax>
+    <DecMax>57.74</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>44.97</JanMin>
+    <FebMin>40.57</FebMin>
+    <MarMin>44.35</MarMin>
+    <AprMin>48.67</AprMin>
+    <MayMin>52.35</MayMin>
+    <JunMin>58.67</JunMin>
+    <JulMin>57.23</JulMin>
+    <AugMin>60.90</AugMin>
+    <SepMin>61.73</SepMin>
+    <OctMin>54.90</OctMin>
+    <NovMin>43.47</NovMin>
+    <DecMin>41.35</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.25</JanRain>
+    <FebRain>1.72</FebRain>
+    <MarRain>4.32</MarRain>
+    <AprRain>0.29</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.01</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.51</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.93</NovRain>
+    <DecRain>2.50</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>8.23</JanWind>
+    <FebWind>6.56</FebWind>
+    <MarWind>8.17</MarWind>
+    <AprWind>8.07</AprWind>
+    <MayWind>8.92</MayWind>
+    <JunWind>8.43</JunWind>
+    <JulWind>7.89</JulWind>
+    <AugWind>7.29</AugWind>
+    <SepWind>6.59</SepWind>
+    <OctWind>4.87</OctWind>
+    <NovWind>4.46</NovWind>
+    <DecWind>5.05</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>39.84</JanDew>
+    <FebDew>36.42</FebDew>
+    <MarDew>41.04</MarDew>
+    <AprDew>42.48</AprDew>
+    <MayDew>44.83</MayDew>
+    <JunDew>51.01</JunDew>
+    <JulDew>54.81</JulDew>
+    <AugDew>56.29</AugDew>
+    <SepDew>54.63</SepDew>
+    <OctDew>50.44</OctDew>
+    <NovDew>43.47</NovDew>
+    <DecDew>42.60</DecDew>
+  </Park>
+  <Park>
+    <Name>Canada's Wonderland, ON</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>69.32</MayMax>
+    <JunMax>75.70</JunMax>
+    <JulMax>81.55</JulMax>
+    <AugMax>80.45</AugMax>
+    <SepMax>71.03</SepMax>
+    <OctMax>59.03</OctMax>
+    <NovMax>47.50</NovMax>
+    <DecMax>34.90</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>49.58</MayMin>
+    <JunMin>56.20</JunMin>
+    <JulMin>62.26</JulMin>
+    <AugMin>62.32</AugMin>
+    <SepMin>54.40</SepMin>
+    <OctMin>41.16</OctMin>
+    <NovMin>33.97</NovMin>
+    <DecMin>24.90</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.52</MayRain>
+    <JunRain>0.50</JunRain>
+    <JulRain>0.72</JulRain>
+    <AugRain>0.94</AugRain>
+    <SepRain>0.91</SepRain>
+    <OctRain>0.45</OctRain>
+    <NovRain>0.51</NovRain>
+    <DecRain>1.13</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>8.45</MayWind>
+    <JunWind>9.93</JunWind>
+    <JulWind>9.70</JulWind>
+    <AugWind>8.87</AugWind>
+    <SepWind>8.59</SepWind>
+    <OctWind>9.09</OctWind>
+    <NovWind>11.07</NovWind>
+    <DecWind>11.50</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>45.21</MayDew>
+    <JunDew>51.92</JunDew>
+    <JulDew>56.98</JulDew>
+    <AugDew>60.05</AugDew>
+    <SepDew>53.85</SepDew>
+    <OctDew>40.17</OctDew>
+    <NovDew>32.36</NovDew>
+    <DecDew>24.01</DecDew>
+  </Park>
+  <Park>
+    <Name>Canobie Lake Park, NH</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>73.19</MayMax>
+    <JunMax>77.77</JunMax>
+    <JulMax>87.10</JulMax>
+    <AugMax>86.97</AugMax>
+    <SepMax>73.13</SepMax>
+    <OctMax>64.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>52.39</MayMin>
+    <JunMin>58.77</JunMin>
+    <JulMin>66.87</JulMin>
+    <AugMin>64.29</AugMin>
+    <SepMin>54.03</SepMin>
+    <OctMin>42.65</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>1.94</MayRain>
+    <JunRain>2.67</JunRain>
+    <JulRain>2.05</JulRain>
+    <AugRain>1.57</AugRain>
+    <SepRain>4.28</SepRain>
+    <OctRain>1.08</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>6.84</MayWind>
+    <JunWind>6.48</JunWind>
+    <JulWind>6.08</JulWind>
+    <AugWind>5.86</AugWind>
+    <SepWind>5.75</SepWind>
+    <OctWind>4.30</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>44.02</MayDew>
+    <JunDew>52.64</JunDew>
+    <JulDew>59.51</JulDew>
+    <AugDew>61.34</AugDew>
+    <SepDew>52.65</SepDew>
+    <OctDew>43.12</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Carowinds, NC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>57.65</JanMax>
+    <FebMax>64.00</FebMax>
+    <MarMax>64.97</MarMax>
+    <AprMax>73.77</AprMax>
+    <MayMax>81.94</MayMax>
+    <JunMax>89.77</JunMax>
+    <JulMax>91.19</JulMax>
+    <AugMax>87.39</AugMax>
+    <SepMax>81.93</SepMax>
+    <OctMax>70.81</OctMax>
+    <NovMax>64.73</NovMax>
+    <DecMax>51.10</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>40.35</JanMin>
+    <FebMin>44.14</FebMin>
+    <MarMin>45.70</MarMin>
+    <AprMin>51.27</AprMin>
+    <MayMin>61.74</MayMin>
+    <JunMin>68.50</JunMin>
+    <JulMin>72.48</JulMin>
+    <AugMin>69.74</AugMin>
+    <SepMin>62.73</SepMin>
+    <OctMin>48.68</OctMin>
+    <NovMin>45.20</NovMin>
+    <DecMin>34.94</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>5.83</JanRain>
+    <FebRain>7.38</FebRain>
+    <MarRain>2.13</MarRain>
+    <AprRain>4.42</AprRain>
+    <MayRain>2.83</MayRain>
+    <JunRain>1.17</JunRain>
+    <JulRain>5.36</JulRain>
+    <AugRain>2.61</AugRain>
+    <SepRain>2.38</SepRain>
+    <OctRain>2.99</OctRain>
+    <NovRain>5.41</NovRain>
+    <DecRain>5.08</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.49</JanWind>
+    <FebWind>3.19</FebWind>
+    <MarWind>8.08</MarWind>
+    <AprWind>7.21</AprWind>
+    <MayWind>7.56</MayWind>
+    <JunWind>6.37</JunWind>
+    <JulWind>6.05</JulWind>
+    <AugWind>5.22</AugWind>
+    <SepWind>6.78</SepWind>
+    <OctWind>6.13</OctWind>
+    <NovWind>6.90</NovWind>
+    <DecWind>5.61</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>38.07</JanDew>
+    <FebDew>40.85</FebDew>
+    <MarDew>37.90</MarDew>
+    <AprDew>44.47</AprDew>
+    <MayDew>59.02</MayDew>
+    <JunDew>62.31</JunDew>
+    <JulDew>70.86</JulDew>
+    <AugDew>68.13</AugDew>
+    <SepDew>59.51</SepDew>
+    <OctDew>46.67</OctDew>
+    <NovDew>41.96</NovDew>
+    <DecDew>32.80</DecDew>
+  </Park>
+  <Park>
+    <Name>Cedar Point, OH</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>72.55</MayMax>
+    <JunMax>80.37</JunMax>
+    <JulMax>85.90</JulMax>
+    <AugMax>84.03</AugMax>
+    <SepMax>73.47</SepMax>
+    <OctMax>63.06</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>55.45</MayMin>
+    <JunMin>62.37</JunMin>
+    <JulMin>64.55</JulMin>
+    <AugMin>64.77</AugMin>
+    <SepMin>58.50</SepMin>
+    <OctMin>45.13</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>4.47</MayRain>
+    <JunRain>2.55</JunRain>
+    <JulRain>4.07</JulRain>
+    <AugRain>5.63</AugRain>
+    <SepRain>3.60</SepRain>
+    <OctRain>3.29</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>9.56</MayWind>
+    <JunWind>8.67</JunWind>
+    <JulWind>8.33</JulWind>
+    <AugWind>7.26</AugWind>
+    <SepWind>7.99</SepWind>
+    <OctWind>10.17</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>50.32</MayDew>
+    <JunDew>55.12</JunDew>
+    <JulDew>61.70</JulDew>
+    <AugDew>62.66</AugDew>
+    <SepDew>56.31</SepDew>
+    <OctDew>39.21</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Coney Island parks</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>58.60</AprMax>
+    <MayMax>71.39</MayMax>
+    <JunMax>79.30</JunMax>
+    <JulMax>87.94</JulMax>
+    <AugMax>87.03</AugMax>
+    <SepMax>77.30</SepMax>
+    <OctMax>64.35</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>45.73</AprMin>
+    <MayMin>56.65</MayMin>
+    <JunMin>65.17</JunMin>
+    <JulMin>73.71</JulMin>
+    <AugMin>74.06</AugMin>
+    <SepMin>64.30</SepMin>
+    <OctMin>52.26</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>4.25</AprRain>
+    <MayRain>4.65</MayRain>
+    <JunRain>3.37</JunRain>
+    <JulRain>2.69</JulRain>
+    <AugRain>2.07</AugRain>
+    <SepRain>5.08</SepRain>
+    <OctRain>4.91</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>12.64</AprWind>
+    <MayWind>9.98</MayWind>
+    <JunWind>9.50</JunWind>
+    <JulWind>9.30</JulWind>
+    <AugWind>8.82</AugWind>
+    <SepWind>9.95</SepWind>
+    <OctWind>9.80</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>32.77</AprDew>
+    <MayDew>48.92</MayDew>
+    <JunDew>54.64</JunDew>
+    <JulDew>61.59</JulDew>
+    <AugDew>62.10</AugDew>
+    <SepDew>54.02</SepDew>
+    <OctDew>43.45</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Dollywood, TN</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>62.32</MarMax>
+    <AprMax>69.87</AprMax>
+    <MayMax>80.29</MayMax>
+    <JunMax>87.60</JunMax>
+    <JulMax>88.74</JulMax>
+    <AugMax>86.35</AugMax>
+    <SepMax>80.50</SepMax>
+    <OctMax>69.32</OctMax>
+    <NovMax>61.27</NovMax>
+    <DecMax>49.84</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>41.84</MarMin>
+    <AprMin>47.23</AprMin>
+    <MayMin>61.39</MayMin>
+    <JunMin>67.57</JunMin>
+    <JulMin>71.61</JulMin>
+    <AugMin>68.68</AugMin>
+    <SepMin>60.37</SepMin>
+    <OctMin>45.26</OctMin>
+    <NovMin>40.80</NovMin>
+    <DecMin>33.10</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>4.56</MarRain>
+    <AprRain>3.89</AprRain>
+    <MayRain>4.77</MayRain>
+    <JunRain>2.02</JunRain>
+    <JulRain>7.15</JulRain>
+    <AugRain>3.30</AugRain>
+    <SepRain>2.46</SepRain>
+    <OctRain>1.96</OctRain>
+    <NovRain>4.25</NovRain>
+    <DecRain>5.71</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>7.57</MarWind>
+    <AprWind>7.24</AprWind>
+    <MayWind>4.77</MayWind>
+    <JunWind>5.93</JunWind>
+    <JulWind>6.71</JulWind>
+    <AugWind>5.04</AugWind>
+    <SepWind>5.22</SepWind>
+    <OctWind>5.37</OctWind>
+    <NovWind>5.34</NovWind>
+    <DecWind>5.65</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>36.60</MarDew>
+    <AprDew>44.08</AprDew>
+    <MayDew>59.19</MayDew>
+    <JunDew>63.48</JunDew>
+    <JulDew>70.47</JulDew>
+    <AugDew>67.88</AugDew>
+    <SepDew>59.14</SepDew>
+    <OctDew>43.80</OctDew>
+    <NovDew>39.46</NovDew>
+    <DecDew>33.66</DecDew>
+  </Park>
+  <Park>
+    <Name>Dorney Park, PA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>72.94</MayMax>
+    <JunMax>78.73</JunMax>
+    <JulMax>87.03</JulMax>
+    <AugMax>87.06</AugMax>
+    <SepMax>74.63</SepMax>
+    <OctMax>62.19</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>52.90</MayMin>
+    <JunMin>58.20</JunMin>
+    <JulMin>66.19</JulMin>
+    <AugMin>65.16</AugMin>
+    <SepMin>55.03</SepMin>
+    <OctMin>41.16</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>5.27</MayRain>
+    <JunRain>3.92</JunRain>
+    <JulRain>2.33</JulRain>
+    <AugRain>2.89</AugRain>
+    <SepRain>3.47</SepRain>
+    <OctRain>4.99</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>7.04</MayWind>
+    <JunWind>5.97</JunWind>
+    <JulWind>6.29</JulWind>
+    <AugWind>5.82</AugWind>
+    <SepWind>6.03</SepWind>
+    <OctWind>5.89</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>50.59</MayDew>
+    <JunDew>55.77</JunDew>
+    <JulDew>63.01</JulDew>
+    <AugDew>61.47</AugDew>
+    <SepDew>54.71</SepDew>
+    <OctDew>42.24</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Family Kingdom, SC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>71.57</AprMax>
+    <MayMax>79.81</MayMax>
+    <JunMax>84.90</JunMax>
+    <JulMax>86.87</JulMax>
+    <AugMax>85.32</AugMax>
+    <SepMax>82.47</SepMax>
+    <OctMax>71.55</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>55.53</AprMin>
+    <MayMin>66.97</MayMin>
+    <JunMin>72.07</JunMin>
+    <JulMin>81.04</JulMin>
+    <AugMin>74.68</AugMin>
+    <SepMin>67.47</SepMin>
+    <OctMin>47.55</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>3.19</AprRain>
+    <MayRain>1.57</MayRain>
+    <JunRain>5.56</JunRain>
+    <JulRain>6.64</JulRain>
+    <AugRain>12.63</AugRain>
+    <SepRain>7.15</SepRain>
+    <OctRain>0.16</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>9.06</AprWind>
+    <MayWind>9.70</MayWind>
+    <JunWind>8.06</JunWind>
+    <JulWind>9.02</JulWind>
+    <AugWind>6.63</AugWind>
+    <SepWind>7.55</SepWind>
+    <OctWind>6.59</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>53.29</AprDew>
+    <MayDew>66.03</MayDew>
+    <JunDew>69.70</JunDew>
+    <JulDew>75.96</JulDew>
+    <AugDew>73.58</AugDew>
+    <SepDew>66.47</SepDew>
+    <OctDew>51.08</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Frontier City, OK</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>73.30</AprMax>
+    <MayMax>79.24</MayMax>
+    <JunMax>88.30</JunMax>
+    <JulMax>98.39</JulMax>
+    <AugMax>94.16</AugMax>
+    <SepMax>87.40</SepMax>
+    <OctMax>74.55</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>50.67</AprMin>
+    <MayMin>61.73</MayMin>
+    <JunMin>68.97</JunMin>
+    <JulMin>74.16</JulMin>
+    <AugMin>70.71</AugMin>
+    <SepMin>63.30</SepMin>
+    <OctMin>51.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>1.59</AprRain>
+    <MayRain>5.62</MayRain>
+    <JunRain>3.31</JunRain>
+    <JulRain>0.42</JulRain>
+    <AugRain>2.04</AugRain>
+    <SepRain>1.80</SepRain>
+    <OctRain>2.21</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>15.36</AprWind>
+    <MayWind>14.05</MayWind>
+    <JunWind>11.20</JunWind>
+    <JulWind>9.91</JulWind>
+    <AugWind>9.10</AugWind>
+    <SepWind>8.89</SepWind>
+    <OctWind>9.79</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>44.36</AprDew>
+    <MayDew>59.55</MayDew>
+    <JunDew>65.81</JunDew>
+    <JulDew>64.91</JulDew>
+    <AugDew>64.88</AugDew>
+    <SepDew>57.93</SepDew>
+    <OctDew>43.52</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Funtown Splashtown USA, ME</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>64.13</MayMax>
+    <JunMax>71.33</JunMax>
+    <JulMax>82.29</JulMax>
+    <AugMax>80.55</AugMax>
+    <SepMax>68.90</SepMax>
+    <OctMax>0.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>47.13</MayMin>
+    <JunMin>54.57</JunMin>
+    <JulMin>62.32</JulMin>
+    <AugMin>63.36</AugMin>
+    <SepMin>51.97</SepMin>
+    <OctMin>0.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>1.12</MayRain>
+    <JunRain>2.62</JunRain>
+    <JulRain>1.28</JulRain>
+    <AugRain>5.62</AugRain>
+    <SepRain>4.21</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>7.19</MayWind>
+    <JunWind>7.11</JunWind>
+    <JulWind>7.05</JulWind>
+    <AugWind>6.39</AugWind>
+    <SepWind>6.44</SepWind>
+    <OctWind>0.00</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>44.99</MayDew>
+    <JunDew>53.59</JunDew>
+    <JulDew>59.23</JulDew>
+    <AugDew>61.94</AugDew>
+    <SepDew>52.18</SepDew>
+    <OctDew>0.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Glenwood Caverns, CO</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>33.68</JanMax>
+    <FebMax>35.89</FebMax>
+    <MarMax>40.81</MarMax>
+    <AprMax>57.77</AprMax>
+    <MayMax>68.58</MayMax>
+    <JunMax>81.03</JunMax>
+    <JulMax>85.71</JulMax>
+    <AugMax>84.68</AugMax>
+    <SepMax>79.67</SepMax>
+    <OctMax>60.40</OctMax>
+    <NovMax>41.73</NovMax>
+    <DecMax>34.23</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>14.71</JanMin>
+    <FebMin>9.07</FebMin>
+    <MarMin>20.65</MarMin>
+    <AprMin>28.73</AprMin>
+    <MayMin>37.55</MayMin>
+    <JunMin>46.27</JunMin>
+    <JulMin>54.17</JulMin>
+    <AugMin>52.55</AugMin>
+    <SepMin>43.90</SepMin>
+    <OctMin>31.10</OctMin>
+    <NovMin>16.23</NovMin>
+    <DecMin>10.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.78</JanRain>
+    <FebRain>0.15</FebRain>
+    <MarRain>1.66</MarRain>
+    <AprRain>0.49</AprRain>
+    <MayRain>0.99</MayRain>
+    <JunRain>0.03</JunRain>
+    <JulRain>0.95</JulRain>
+    <AugRain>0.72</AugRain>
+    <SepRain>0.63</SepRain>
+    <OctRain>2.83</OctRain>
+    <NovRain>0.31</NovRain>
+    <DecRain>0.63</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>4.25</JanWind>
+    <FebWind>5.76</FebWind>
+    <MarWind>6.44</MarWind>
+    <AprWind>9.41</AprWind>
+    <MayWind>8.66</MayWind>
+    <JunWind>7.35</JunWind>
+    <JulWind>5.86</JulWind>
+    <AugWind>5.19</AugWind>
+    <SepWind>4.90</SepWind>
+    <OctWind>4.16</OctWind>
+    <NovWind>4.63</NovWind>
+    <DecWind>4.35</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>17.26</JanDew>
+    <FebDew>11.95</FebDew>
+    <MarDew>19.24</MarDew>
+    <AprDew>19.92</AprDew>
+    <MayDew>26.35</MayDew>
+    <JunDew>34.72</JunDew>
+    <JulDew>46.74</JulDew>
+    <AugDew>45.58</AugDew>
+    <SepDew>34.90</SepDew>
+    <OctDew>28.20</OctDew>
+    <NovDew>16.73</NovDew>
+    <DecDew>14.88</DecDew>
+  </Park>
+  <Park>
+    <Name>Hersheypark, PA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>60.40</AprMax>
+    <MayMax>74.35</MayMax>
+    <JunMax>81.73</JunMax>
+    <JulMax>86.87</JulMax>
+    <AugMax>87.48</AugMax>
+    <SepMax>76.60</SepMax>
+    <OctMax>62.97</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>41.61</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>42.33</AprMin>
+    <MayMin>56.45</MayMin>
+    <JunMin>63.47</JunMin>
+    <JulMin>70.52</JulMin>
+    <AugMin>69.77</AugMin>
+    <SepMin>60.20</SepMin>
+    <OctMin>46.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>26.94</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>4.46</AprRain>
+    <MayRain>6.67</MayRain>
+    <JunRain>4.31</JunRain>
+    <JulRain>2.81</JulRain>
+    <AugRain>1.66</AugRain>
+    <SepRain>3.96</SepRain>
+    <OctRain>3.20</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>4.02</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>8.91</AprWind>
+    <MayWind>6.28</MayWind>
+    <JunWind>6.84</JunWind>
+    <JulWind>5.42</JulWind>
+    <AugWind>6.35</AugWind>
+    <SepWind>5.79</SepWind>
+    <OctWind>5.50</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>6.62</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>34.78</AprDew>
+    <MayDew>51.90</MayDew>
+    <JunDew>56.50</JunDew>
+    <JulDew>63.71</JulDew>
+    <AugDew>62.76</AugDew>
+    <SepDew>56.94</SepDew>
+    <OctDew>44.42</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>25.75</DecDew>
+  </Park>
+  <Park>
+    <Name>Holiday World, IN</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>64.63</AprMax>
+    <MayMax>78.94</MayMax>
+    <JunMax>87.33</JunMax>
+    <JulMax>88.74</JulMax>
+    <AugMax>86.06</AugMax>
+    <SepMax>80.83</SepMax>
+    <OctMax>69.45</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>46.53</AprMin>
+    <MayMin>60.16</MayMin>
+    <JunMin>65.90</JunMin>
+    <JulMin>71.52</JulMin>
+    <AugMin>68.61</AugMin>
+    <SepMin>60.13</SepMin>
+    <OctMin>46.41</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>4.11</AprRain>
+    <MayRain>0.98</MayRain>
+    <JunRain>0.91</JunRain>
+    <JulRain>5.21</JulRain>
+    <AugRain>4.92</AugRain>
+    <SepRain>4.55</SepRain>
+    <OctRain>1.23</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>9.11</AprWind>
+    <MayWind>8.93</MayWind>
+    <JunWind>6.07</JunWind>
+    <JulWind>5.77</JulWind>
+    <AugWind>5.59</AugWind>
+    <SepWind>5.68</SepWind>
+    <OctWind>7.22</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>44.12</AprDew>
+    <MayDew>58.75</MayDew>
+    <JunDew>62.44</JunDew>
+    <JulDew>70.54</JulDew>
+    <AugDew>68.51</AugDew>
+    <SepDew>59.79</SepDew>
+    <OctDew>44.37</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Indiana Beach, IN</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>74.61</MayMax>
+    <JunMax>84.20</JunMax>
+    <JulMax>85.45</JulMax>
+    <AugMax>84.35</AugMax>
+    <SepMax>76.33</SepMax>
+    <OctMax>65.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>55.39</MayMin>
+    <JunMin>60.10</JunMin>
+    <JulMin>65.68</JulMin>
+    <AugMin>63.61</AugMin>
+    <SepMin>55.73</SepMin>
+    <OctMin>41.84</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>4.07</MayRain>
+    <JunRain>2.02</JunRain>
+    <JulRain>0.68</JulRain>
+    <AugRain>3.93</AugRain>
+    <SepRain>1.11</SepRain>
+    <OctRain>0.27</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>7.40</MayWind>
+    <JunWind>5.12</JunWind>
+    <JulWind>5.20</JulWind>
+    <AugWind>4.72</AugWind>
+    <SepWind>4.97</SepWind>
+    <OctWind>6.93</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>54.84</MayDew>
+    <JunDew>58.73</JunDew>
+    <JulDew>65.66</JulDew>
+    <AugDew>64.32</AugDew>
+    <SepDew>56.58</SepDew>
+    <OctDew>38.97</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Kemah Boardwalk, TX</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>69.00</JanMax>
+    <FebMax>70.68</FebMax>
+    <MarMax>75.65</MarMax>
+    <AprMax>79.93</AprMax>
+    <MayMax>87.58</MayMax>
+    <JunMax>93.47</JunMax>
+    <JulMax>94.48</JulMax>
+    <AugMax>90.77</AugMax>
+    <SepMax>89.53</SepMax>
+    <OctMax>81.42</OctMax>
+    <NovMax>68.27</NovMax>
+    <DecMax>67.10</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>51.74</JanMin>
+    <FebMin>53.14</FebMin>
+    <MarMin>61.39</MarMin>
+    <AprMin>64.03</AprMin>
+    <MayMin>69.58</MayMin>
+    <JunMin>76.87</JunMin>
+    <JulMin>77.94</JulMin>
+    <AugMin>76.74</AugMin>
+    <SepMin>72.74</SepMin>
+    <OctMin>61.39</OctMin>
+    <NovMin>54.44</NovMin>
+    <DecMin>49.84</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.00</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>10.08</JanWind>
+    <FebWind>10.81</FebWind>
+    <MarWind>11.79</MarWind>
+    <AprWind>12.27</AprWind>
+    <MayWind>10.85</MayWind>
+    <JunWind>7.76</JunWind>
+    <JulWind>8.23</JulWind>
+    <AugWind>6.89</AugWind>
+    <SepWind>5.97</SepWind>
+    <OctWind>7.80</OctWind>
+    <NovWind>9.17</NovWind>
+    <DecWind>8.95</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>50.32</JanDew>
+    <FebDew>52.95</FebDew>
+    <MarDew>57.19</MarDew>
+    <AprDew>61.55</AprDew>
+    <MayDew>70.25</MayDew>
+    <JunDew>74.43</JunDew>
+    <JulDew>74.33</JulDew>
+    <AugDew>74.56</AugDew>
+    <SepDew>67.41</SepDew>
+    <OctDew>56.35</OctDew>
+    <NovDew>53.06</NovDew>
+    <DecDew>48.95</DecDew>
+  </Park>
+  <Park>
+    <Name>Kennywood, PA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>57.70</AprMax>
+    <MayMax>72.52</MayMax>
+    <JunMax>79.70</JunMax>
+    <JulMax>82.45</JulMax>
+    <AugMax>80.52</AugMax>
+    <SepMax>72.40</SepMax>
+    <OctMax>60.97</OctMax>
+    <NovMax>52.53</NovMax>
+    <DecMax>39.87</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>40.00</AprMin>
+    <MayMin>53.32</MayMin>
+    <JunMin>59.87</JunMin>
+    <JulMin>66.00</JulMin>
+    <AugMin>63.52</AugMin>
+    <SepMin>56.30</SepMin>
+    <OctMin>40.84</OctMin>
+    <NovMin>36.03</NovMin>
+    <DecMin>26.32</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>3.04</AprRain>
+    <MayRain>5.03</MayRain>
+    <JunRain>3.00</JunRain>
+    <JulRain>3.69</JulRain>
+    <AugRain>3.39</AugRain>
+    <SepRain>4.20</SepRain>
+    <OctRain>1.51</OctRain>
+    <NovRain>3.99</NovRain>
+    <DecRain>1.69</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>8.77</AprWind>
+    <MayWind>7.11</MayWind>
+    <JunWind>6.78</JunWind>
+    <JulWind>6.49</JulWind>
+    <AugWind>5.61</AugWind>
+    <SepWind>5.84</SepWind>
+    <OctWind>6.45</OctWind>
+    <NovWind>7.46</NovWind>
+    <DecWind>7.57</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>35.01</AprDew>
+    <MayDew>50.78</MayDew>
+    <JunDew>55.91</JunDew>
+    <JulDew>62.52</JulDew>
+    <AugDew>61.78</AugDew>
+    <SepDew>55.94</SepDew>
+    <OctDew>38.18</OctDew>
+    <NovDew>32.37</NovDew>
+    <DecDew>24.37</DecDew>
+  </Park>
+  <Park>
+    <Name>Kentucky Kingdom, KY</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>66.03</AprMax>
+    <MayMax>79.74</MayMax>
+    <JunMax>87.83</JunMax>
+    <JulMax>89.97</JulMax>
+    <AugMax>87.00</AugMax>
+    <SepMax>81.10</SepMax>
+    <OctMax>69.97</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>48.30</AprMin>
+    <MayMin>61.90</MayMin>
+    <JunMin>68.77</JunMin>
+    <JulMin>73.84</JulMin>
+    <AugMin>70.58</AugMin>
+    <SepMin>62.73</SepMin>
+    <OctMin>47.39</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>4.40</AprRain>
+    <MayRain>3.27</MayRain>
+    <JunRain>2.77</JunRain>
+    <JulRain>5.67</JulRain>
+    <AugRain>4.73</AugRain>
+    <SepRain>2.04</SepRain>
+    <OctRain>1.35</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>9.22</AprWind>
+    <MayWind>8.94</MayWind>
+    <JunWind>7.04</JunWind>
+    <JulWind>6.85</JulWind>
+    <AugWind>6.46</AugWind>
+    <SepWind>6.45</SepWind>
+    <OctWind>7.77</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>42.13</AprDew>
+    <MayDew>57.96</MayDew>
+    <JunDew>61.18</JunDew>
+    <JulDew>68.73</JulDew>
+    <AugDew>66.98</AugDew>
+    <SepDew>59.03</SepDew>
+    <OctDew>40.66</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Kings Dominion, VA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>55.74</JanMax>
+    <FebMax>59.57</FebMax>
+    <MarMax>61.19</MarMax>
+    <AprMax>70.60</AprMax>
+    <MayMax>77.94</MayMax>
+    <JunMax>85.70</JunMax>
+    <JulMax>90.00</JulMax>
+    <AugMax>87.65</AugMax>
+    <SepMax>83.47</SepMax>
+    <OctMax>68.00</OctMax>
+    <NovMax>63.70</NovMax>
+    <DecMax>50.32</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>36.84</JanMin>
+    <FebMin>38.32</FebMin>
+    <MarMin>40.42</MarMin>
+    <AprMin>47.50</AprMin>
+    <MayMin>59.23</MayMin>
+    <JunMin>65.30</JunMin>
+    <JulMin>71.19</JulMin>
+    <AugMin>69.32</AugMin>
+    <SepMin>61.97</SepMin>
+    <OctMin>48.00</OctMin>
+    <NovMin>42.43</NovMin>
+    <DecMin>31.13</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.12</JanRain>
+    <FebRain>2.22</FebRain>
+    <MarRain>1.11</MarRain>
+    <AprRain>2.38</AprRain>
+    <MayRain>3.86</MayRain>
+    <JunRain>5.22</JunRain>
+    <JulRain>2.66</JulRain>
+    <AugRain>4.25</AugRain>
+    <SepRain>0.76</SepRain>
+    <OctRain>2.69</OctRain>
+    <NovRain>3.48</NovRain>
+    <DecRain>4.47</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.90</JanWind>
+    <FebWind>9.16</FebWind>
+    <MarWind>9.23</MarWind>
+    <AprWind>8.81</AprWind>
+    <MayWind>8.22</MayWind>
+    <JunWind>7.02</JunWind>
+    <JulWind>7.36</JulWind>
+    <AugWind>5.72</AugWind>
+    <SepWind>7.12</SepWind>
+    <OctWind>6.78</OctWind>
+    <NovWind>7.00</NovWind>
+    <DecWind>6.58</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>35.02</JanDew>
+    <FebDew>34.31</FebDew>
+    <MarDew>33.54</MarDew>
+    <AprDew>42.22</AprDew>
+    <MayDew>57.93</MayDew>
+    <JunDew>61.69</JunDew>
+    <JulDew>69.62</JulDew>
+    <AugDew>67.61</AugDew>
+    <SepDew>58.56</SepDew>
+    <OctDew>47.33</OctDew>
+    <NovDew>40.24</NovDew>
+    <DecDew>29.41</DecDew>
+  </Park>
+  <Park>
+    <Name>Kings Island, OH</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>60.80</AprMax>
+    <MayMax>76.29</MayMax>
+    <JunMax>83.63</JunMax>
+    <JulMax>86.00</JulMax>
+    <AugMax>83.52</AugMax>
+    <SepMax>76.67</SepMax>
+    <OctMax>66.39</OctMax>
+    <NovMax>54.33</NovMax>
+    <DecMax>42.61</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>43.57</AprMin>
+    <MayMin>58.20</MayMin>
+    <JunMin>64.87</JunMin>
+    <JulMin>70.06</JulMin>
+    <AugMin>66.70</AugMin>
+    <SepMin>59.27</SepMin>
+    <OctMin>44.71</OctMin>
+    <NovMin>37.17</NovMin>
+    <DecMin>28.16</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>3.32</AprRain>
+    <MayRain>9.09</MayRain>
+    <JunRain>2.38</JunRain>
+    <JulRain>4.29</JulRain>
+    <AugRain>7.71</AugRain>
+    <SepRain>1.94</SepRain>
+    <OctRain>0.95</OctRain>
+    <NovRain>2.43</NovRain>
+    <DecRain>2.61</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>10.71</AprWind>
+    <MayWind>9.04</MayWind>
+    <JunWind>6.99</JunWind>
+    <JulWind>7.13</JulWind>
+    <AugWind>6.97</AugWind>
+    <SepWind>7.24</SepWind>
+    <OctWind>9.13</OctWind>
+    <NovWind>8.78</NovWind>
+    <DecWind>9.19</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>41.40</AprDew>
+    <MayDew>59.30</MayDew>
+    <JunDew>61.01</JunDew>
+    <JulDew>69.33</JulDew>
+    <AugDew>65.32</AugDew>
+    <SepDew>58.61</SepDew>
+    <OctDew>39.53</OctDew>
+    <NovDew>33.64</NovDew>
+    <DecDew>28.67</DecDew>
+  </Park>
+  <Park>
+    <Name>Knoebels, PA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>59.40</AprMax>
+    <MayMax>74.10</MayMax>
+    <JunMax>80.97</JunMax>
+    <JulMax>87.65</JulMax>
+    <AugMax>85.48</AugMax>
+    <SepMax>74.30</SepMax>
+    <OctMax>61.74</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>39.43</AprMin>
+    <MayMin>51.39</MayMin>
+    <JunMin>58.66</JunMin>
+    <JulMin>64.39</JulMin>
+    <AugMin>64.26</AugMin>
+    <SepMin>56.00</SepMin>
+    <OctMin>41.94</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>3.84</AprRain>
+    <MayRain>3.87</MayRain>
+    <JunRain>2.69</JunRain>
+    <JulRain>2.11</JulRain>
+    <AugRain>2.63</AugRain>
+    <SepRain>4.64</SepRain>
+    <OctRain>3.03</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>7.44</AprWind>
+    <MayWind>4.80</MayWind>
+    <JunWind>5.90</JunWind>
+    <JulWind>5.12</JulWind>
+    <AugWind>4.58</AugWind>
+    <SepWind>4.64</SepWind>
+    <OctWind>4.17</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>32.66</AprDew>
+    <MayDew>49.68</MayDew>
+    <JunDew>54.27</JunDew>
+    <JulDew>59.85</JulDew>
+    <AugDew>61.62</AugDew>
+    <SepDew>55.78</SepDew>
+    <OctDew>41.76</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>La Ronde, QC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>70.94</MayMax>
+    <JunMax>74.10</JunMax>
+    <JulMax>80.35</JulMax>
+    <AugMax>79.06</AugMax>
+    <SepMax>67.97</SepMax>
+    <OctMax>60.58</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>51.61</MayMin>
+    <JunMin>58.47</JunMin>
+    <JulMin>64.61</JulMin>
+    <AugMin>63.48</AugMin>
+    <SepMin>53.60</SepMin>
+    <OctMin>42.23</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>2.03</MayRain>
+    <JunRain>6.73</JunRain>
+    <JulRain>1.76</JulRain>
+    <AugRain>4.02</AugRain>
+    <SepRain>4.37</SepRain>
+    <OctRain>0.70</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>9.33</MayWind>
+    <JunWind>9.95</JunWind>
+    <JulWind>10.60</JulWind>
+    <AugWind>8.41</AugWind>
+    <SepWind>8.29</SepWind>
+    <OctWind>8.15</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>44.69</MayDew>
+    <JunDew>54.43</JunDew>
+    <JulDew>59.11</JulDew>
+    <AugDew>60.78</AugDew>
+    <SepDew>52.39</SepDew>
+    <OctDew>40.57</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Lagoon, UT</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>45.97</MarMax>
+    <AprMax>61.37</AprMax>
+    <MayMax>70.13</MayMax>
+    <JunMax>87.27</JunMax>
+    <JulMax>98.58</JulMax>
+    <AugMax>93.42</AugMax>
+    <SepMax>87.23</SepMax>
+    <OctMax>69.19</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>32.29</MarMin>
+    <AprMin>40.17</AprMin>
+    <MayMin>48.68</MayMin>
+    <JunMin>62.37</JunMin>
+    <JulMin>75.71</JulMin>
+    <AugMin>70.74</AugMin>
+    <SepMin>63.00</SepMin>
+    <OctMin>46.58</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>2.86</MarRain>
+    <AprRain>0.82</AprRain>
+    <MayRain>1.68</MayRain>
+    <JunRain>0.56</JunRain>
+    <JulRain>0.12</JulRain>
+    <AugRain>1.13</AugRain>
+    <SepRain>0.76</SepRain>
+    <OctRain>0.81</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>9.97</MarWind>
+    <AprWind>9.24</AprWind>
+    <MayWind>8.98</MayWind>
+    <JunWind>8.84</JunWind>
+    <JulWind>10.44</JulWind>
+    <AugWind>7.64</AugWind>
+    <SepWind>7.83</SepWind>
+    <OctWind>6.72</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>26.84</MarDew>
+    <AprDew>25.94</AprDew>
+    <MayDew>32.47</MayDew>
+    <JunDew>38.65</JunDew>
+    <JulDew>44.07</JulDew>
+    <AugDew>51.04</AugDew>
+    <SepDew>41.69</SepDew>
+    <OctDew>34.14</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Lake Compounce, CT</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>74.19</MayMax>
+    <JunMax>79.27</JunMax>
+    <JulMax>87.45</JulMax>
+    <AugMax>86.74</AugMax>
+    <SepMax>74.83</SepMax>
+    <OctMax>64.52</OctMax>
+    <NovMax>56.33</NovMax>
+    <DecMax>42.61</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>53.48</MayMin>
+    <JunMin>58.13</JunMin>
+    <JulMin>66.19</JulMin>
+    <AugMin>66.63</AugMin>
+    <SepMin>55.70</SepMin>
+    <OctMin>43.94</OctMin>
+    <NovMin>36.97</NovMin>
+    <DecMin>25.68</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>2.83</MayRain>
+    <JunRain>2.59</JunRain>
+    <JulRain>2.66</JulRain>
+    <AugRain>4.33</AugRain>
+    <SepRain>6.08</SepRain>
+    <OctRain>5.03</OctRain>
+    <NovRain>3.76</NovRain>
+    <DecRain>4.81</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>8.25</MayWind>
+    <JunWind>6.96</JunWind>
+    <JulWind>6.99</JulWind>
+    <AugWind>6.48</AugWind>
+    <SepWind>5.96</SepWind>
+    <OctWind>6.49</OctWind>
+    <NovWind>8.32</NovWind>
+    <DecWind>8.54</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>47.71</MayDew>
+    <JunDew>54.47</JunDew>
+    <JulDew>61.68</JulDew>
+    <AugDew>62.74</AugDew>
+    <SepDew>54.69</SepDew>
+    <OctDew>43.08</OctDew>
+    <NovDew>34.29</NovDew>
+    <DecDew>23.76</DecDew>
+  </Park>
+  <Park>
+    <Name>Michigan's Adventure, MI</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>71.06</MayMax>
+    <JunMax>78.10</JunMax>
+    <JulMax>81.77</JulMax>
+    <AugMax>80.81</AugMax>
+    <SepMax>72.73</SepMax>
+    <OctMax>62.23</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>52.55</MayMin>
+    <JunMin>57.93</JunMin>
+    <JulMin>64.90</JulMin>
+    <AugMin>64.45</AugMin>
+    <SepMin>57.93</SepMin>
+    <OctMin>42.19</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>2.72</MayRain>
+    <JunRain>2.11</JunRain>
+    <JulRain>3.12</JulRain>
+    <AugRain>3.74</AugRain>
+    <SepRain>2.57</SepRain>
+    <OctRain>4.46</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>9.29</MayWind>
+    <JunWind>8.24</JunWind>
+    <JulWind>7.72</JulWind>
+    <AugWind>7.60</AugWind>
+    <SepWind>7.23</SepWind>
+    <OctWind>8.95</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>47.49</MayDew>
+    <JunDew>54.66</JunDew>
+    <JulDew>61.41</JulDew>
+    <AugDew>62.40</AugDew>
+    <SepDew>56.07</SepDew>
+    <OctDew>41.72</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Morey's Piers, NJ</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>61.67</AprMax>
+    <MayMax>71.94</MayMax>
+    <JunMax>80.47</JunMax>
+    <JulMax>87.23</JulMax>
+    <AugMax>86.77</AugMax>
+    <SepMax>77.63</SepMax>
+    <OctMax>65.03</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>42.70</AprMin>
+    <MayMin>54.84</MayMin>
+    <JunMin>61.17</JunMin>
+    <JulMin>70.23</JulMin>
+    <AugMin>68.61</AugMin>
+    <SepMin>58.97</SepMin>
+    <OctMin>46.94</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>4.02</AprRain>
+    <MayRain>4.57</MayRain>
+    <JunRain>2.13</JunRain>
+    <JulRain>4.76</JulRain>
+    <AugRain>4.45</AugRain>
+    <SepRain>3.38</SepRain>
+    <OctRain>7.88</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>10.83</AprWind>
+    <MayWind>9.81</MayWind>
+    <JunWind>7.63</JunWind>
+    <JulWind>7.07</JulWind>
+    <AugWind>6.85</AugWind>
+    <SepWind>7.41</SepWind>
+    <OctWind>7.66</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>38.29</AprDew>
+    <MayDew>53.06</MayDew>
+    <JunDew>59.20</JunDew>
+    <JulDew>67.76</JulDew>
+    <AugDew>66.08</AugDew>
+    <SepDew>58.08</SepDew>
+    <OctDew>48.26</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Orlando parks</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>75.35</JanMax>
+    <FebMax>81.32</FebMax>
+    <MarMax>82.26</MarMax>
+    <AprMax>83.47</AprMax>
+    <MayMax>89.00</MayMax>
+    <JunMax>92.17</JunMax>
+    <JulMax>93.45</JulMax>
+    <AugMax>92.97</AugMax>
+    <SepMax>89.53</SepMax>
+    <OctMax>84.68</OctMax>
+    <NovMax>80.17</NovMax>
+    <DecMax>72.55</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>53.35</JanMin>
+    <FebMin>58.79</FebMin>
+    <MarMin>60.94</MarMin>
+    <AprMin>65.50</AprMin>
+    <MayMin>71.57</MayMin>
+    <JunMin>74.17</JunMin>
+    <JulMin>75.48</JulMin>
+    <AugMin>75.84</AugMin>
+    <SepMin>74.27</SepMin>
+    <OctMin>66.39</OctMin>
+    <NovMin>64.93</NovMin>
+    <DecMin>55.29</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>1.01</JanRain>
+    <FebRain>0.55</FebRain>
+    <MarRain>0.15</MarRain>
+    <AprRain>5.25</AprRain>
+    <MayRain>2.15</MayRain>
+    <JunRain>4.61</JunRain>
+    <JulRain>4.85</JulRain>
+    <AugRain>7.33</AugRain>
+    <SepRain>23.00</SepRain>
+    <OctRain>2.14</OctRain>
+    <NovRain>4.27</NovRain>
+    <DecRain>0.95</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.10</JanWind>
+    <FebWind>8.03</FebWind>
+    <MarWind>8.85</MarWind>
+    <AprWind>9.24</AprWind>
+    <MayWind>8.09</MayWind>
+    <JunWind>7.48</JunWind>
+    <JulWind>6.12</JulWind>
+    <AugWind>5.83</AugWind>
+    <SepWind>7.52</SepWind>
+    <OctWind>6.99</OctWind>
+    <NovWind>9.23</NovWind>
+    <DecWind>7.25</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>52.58</JanDew>
+    <FebDew>58.62</FebDew>
+    <MarDew>57.93</MarDew>
+    <AprDew>61.05</AprDew>
+    <MayDew>66.34</MayDew>
+    <JunDew>71.24</JunDew>
+    <JulDew>72.90</JulDew>
+    <AugDew>73.42</AugDew>
+    <SepDew>72.17</SepDew>
+    <OctDew>63.43</OctDew>
+    <NovDew>64.57</NovDew>
+    <DecDew>53.81</DecDew>
+  </Park>
+  <Park>
+    <Name>Playland Vancouver, BC</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>57.71</MayMax>
+    <JunMax>65.93</JunMax>
+    <JulMax>72.68</JulMax>
+    <AugMax>74.26</AugMax>
+    <SepMax>68.37</SepMax>
+    <OctMax>0.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>47.03</MayMin>
+    <JunMin>54.03</JunMin>
+    <JulMin>59.03</JulMin>
+    <AugMin>60.84</AugMin>
+    <SepMin>54.23</SepMin>
+    <OctMin>0.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>3.63</MayRain>
+    <JunRain>2.74</JunRain>
+    <JulRain>1.09</JulRain>
+    <AugRain>0.23</AugRain>
+    <SepRain>0.19</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>8.80</MayWind>
+    <JunWind>9.12</JunWind>
+    <JulWind>7.25</JulWind>
+    <AugWind>8.20</AugWind>
+    <SepWind>8.09</SepWind>
+    <OctWind>0.00</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>46.23</MayDew>
+    <JunDew>54.10</JunDew>
+    <JulDew>60.06</JulDew>
+    <AugDew>61.81</AugDew>
+    <SepDew>55.62</SepDew>
+    <OctDew>0.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>San Antonio parks</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>68.16</JanMax>
+    <FebMax>68.93</FebMax>
+    <MarMax>76.35</MarMax>
+    <AprMax>84.30</AprMax>
+    <MayMax>93.77</MayMax>
+    <JunMax>98.80</JunMax>
+    <JulMax>100.61</JulMax>
+    <AugMax>95.39</AugMax>
+    <SepMax>92.40</SepMax>
+    <OctMax>83.52</OctMax>
+    <NovMax>68.57</NovMax>
+    <DecMax>64.81</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>46.39</JanMin>
+    <FebMin>46.36</FebMin>
+    <MarMin>57.32</MarMin>
+    <AprMin>64.10</AprMin>
+    <MayMin>71.87</MayMin>
+    <JunMin>76.10</JunMin>
+    <JulMin>78.26</JulMin>
+    <AugMin>77.19</AugMin>
+    <SepMin>72.20</SepMin>
+    <OctMin>61.10</OctMin>
+    <NovMin>51.97</NovMin>
+    <DecMin>45.90</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.66</JanRain>
+    <FebRain>1.20</FebRain>
+    <MarRain>1.31</MarRain>
+    <AprRain>1.22</AprRain>
+    <MayRain>0.88</MayRain>
+    <JunRain>0.63</JunRain>
+    <JulRain>0.01</JulRain>
+    <AugRain>2.10</AugRain>
+    <SepRain>0.98</SepRain>
+    <OctRain>1.03</OctRain>
+    <NovRain>1.81</NovRain>
+    <DecRain>0.47</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>7.56</JanWind>
+    <FebWind>8.53</FebWind>
+    <MarWind>9.30</MarWind>
+    <AprWind>10.78</AprWind>
+    <MayWind>12.00</MayWind>
+    <JunWind>10.48</JunWind>
+    <JulWind>10.78</JulWind>
+    <AugWind>8.83</AugWind>
+    <SepWind>6.39</SepWind>
+    <OctWind>7.44</OctWind>
+    <NovWind>8.04</NovWind>
+    <DecWind>7.10</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>41.57</JanDew>
+    <FebDew>43.50</FebDew>
+    <MarDew>52.78</MarDew>
+    <AprDew>57.04</AprDew>
+    <MayDew>66.35</MayDew>
+    <JunDew>66.79</JunDew>
+    <JulDew>68.17</JulDew>
+    <AugDew>70.20</AugDew>
+    <SepDew>64.49</SepDew>
+    <OctDew>52.41</OctDew>
+    <NovDew>48.31</NovDew>
+    <DecDew>42.54</DecDew>
+  </Park>
+  <Park>
+    <Name>SeaWorld San Diego, CA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>62.94</JanMax>
+    <FebMax>63.36</FebMax>
+    <MarMax>62.48</MarMax>
+    <AprMax>68.47</AprMax>
+    <MayMax>66.61</MayMax>
+    <JunMax>70.27</JunMax>
+    <JulMax>73.03</JulMax>
+    <AugMax>78.74</AugMax>
+    <SepMax>80.83</SepMax>
+    <OctMax>73.48</OctMax>
+    <NovMax>68.10</NovMax>
+    <DecMax>64.19</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>48.42</JanMin>
+    <FebMin>46.82</FebMin>
+    <MarMin>50.79</MarMin>
+    <AprMin>55.83</AprMin>
+    <MayMin>57.71</MayMin>
+    <JunMin>61.97</JunMin>
+    <JulMin>63.55</JulMin>
+    <AugMin>69.61</AugMin>
+    <SepMin>69.60</SepMin>
+    <OctMin>62.81</OctMin>
+    <NovMin>49.37</NovMin>
+    <DecMin>48.35</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>5.17</JanRain>
+    <FebRain>6.04</FebRain>
+    <MarRain>3.98</MarRain>
+    <AprRain>0.02</AprRain>
+    <MayRain>0.02</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.65</SepRain>
+    <OctRain>0.09</OctRain>
+    <NovRain>1.07</NovRain>
+    <DecRain>1.55</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.05</JanWind>
+    <FebWind>6.04</FebWind>
+    <MarWind>6.06</MarWind>
+    <AprWind>6.30</AprWind>
+    <MayWind>6.71</MayWind>
+    <JunWind>5.75</JunWind>
+    <JulWind>5.94</JulWind>
+    <AugWind>5.68</AugWind>
+    <SepWind>5.19</SepWind>
+    <OctWind>4.81</OctWind>
+    <NovWind>4.37</NovWind>
+    <DecWind>3.59</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>45.03</JanDew>
+    <FebDew>39.18</FebDew>
+    <MarDew>46.58</MarDew>
+    <AprDew>50.53</AprDew>
+    <MayDew>52.28</MayDew>
+    <JunDew>58.94</JunDew>
+    <JulDew>60.79</JulDew>
+    <AugDew>64.61</AugDew>
+    <SepDew>64.79</SepDew>
+    <OctDew>58.24</OctDew>
+    <NovDew>43.64</NovDew>
+    <DecDew>45.91</DecDew>
+  </Park>
+  <Park>
+    <Name>Sesame Place, PA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>47.61</JanMax>
+    <FebMax>48.04</FebMax>
+    <MarMax>50.77</MarMax>
+    <AprMax>59.77</AprMax>
+    <MayMax>72.77</MayMax>
+    <JunMax>79.13</JunMax>
+    <JulMax>87.87</JulMax>
+    <AugMax>86.65</AugMax>
+    <SepMax>76.30</SepMax>
+    <OctMax>62.58</OctMax>
+    <NovMax>56.57</NovMax>
+    <DecMax>42.90</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>33.94</JanMin>
+    <FebMin>29.32</FebMin>
+    <MarMin>34.06</MarMin>
+    <AprMin>42.03</AprMin>
+    <MayMin>53.60</MayMin>
+    <JunMin>60.83</JunMin>
+    <JulMin>69.55</JulMin>
+    <AugMin>67.77</AugMin>
+    <SepMin>58.43</SepMin>
+    <OctMin>44.29</OctMin>
+    <NovMin>38.13</NovMin>
+    <DecMin>27.61</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>3.82</JanRain>
+    <FebRain>1.54</FebRain>
+    <MarRain>2.46</MarRain>
+    <AprRain>5.82</AprRain>
+    <MayRain>4.71</MayRain>
+    <JunRain>2.04</JunRain>
+    <JulRain>1.05</JulRain>
+    <AugRain>2.52</AugRain>
+    <SepRain>2.43</SepRain>
+    <OctRain>5.91</OctRain>
+    <NovRain>2.27</NovRain>
+    <DecRain>4.19</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.72</JanWind>
+    <FebWind>7.23</FebWind>
+    <MarWind>8.38</MarWind>
+    <AprWind>8.87</AprWind>
+    <MayWind>7.16</MayWind>
+    <JunWind>6.18</JunWind>
+    <JulWind>6.16</JulWind>
+    <AugWind>5.94</AugWind>
+    <SepWind>6.01</SepWind>
+    <OctWind>6.14</OctWind>
+    <NovWind>6.57</NovWind>
+    <DecWind>7.22</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>32.48</JanDew>
+    <FebDew>26.84</FebDew>
+    <MarDew>28.90</MarDew>
+    <AprDew>35.99</AprDew>
+    <MayDew>51.35</MayDew>
+    <JunDew>57.73</JunDew>
+    <JulDew>64.96</JulDew>
+    <AugDew>63.91</AugDew>
+    <SepDew>56.42</SepDew>
+    <OctDew>45.37</OctDew>
+    <NovDew>36.53</NovDew>
+    <DecDew>26.40</DecDew>
+  </Park>
+  <Park>
+    <Name>Silver Dollar City, MO</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>56.42</MarMax>
+    <AprMax>66.70</AprMax>
+    <MayMax>75.74</MayMax>
+    <JunMax>86.57</JunMax>
+    <JulMax>94.65</JulMax>
+    <AugMax>87.35</AugMax>
+    <SepMax>81.43</SepMax>
+    <OctMax>70.39</OctMax>
+    <NovMax>56.30</NovMax>
+    <DecMax>46.65</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>37.68</MarMin>
+    <AprMin>46.03</AprMin>
+    <MayMin>57.45</MayMin>
+    <JunMin>64.93</JunMin>
+    <JulMin>72.19</JulMin>
+    <AugMin>66.35</AugMin>
+    <SepMin>59.97</SepMin>
+    <OctMin>47.87</OctMin>
+    <NovMin>36.18</NovMin>
+    <DecMin>30.13</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.00</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>6.81</MarWind>
+    <AprWind>7.46</AprWind>
+    <MayWind>6.10</MayWind>
+    <JunWind>3.62</JunWind>
+    <JulWind>4.24</JulWind>
+    <AugWind>3.42</AugWind>
+    <SepWind>3.83</SepWind>
+    <OctWind>4.59</OctWind>
+    <NovWind>5.84</NovWind>
+    <DecWind>6.51</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>35.97</MarDew>
+    <AprDew>42.86</AprDew>
+    <MayDew>59.65</MayDew>
+    <JunDew>65.31</JunDew>
+    <JulDew>66.82</JulDew>
+    <AugDew>67.34</AugDew>
+    <SepDew>57.97</SepDew>
+    <OctDew>42.15</OctDew>
+    <NovDew>36.13</NovDew>
+    <DecDew>29.49</DecDew>
+  </Park>
+  <Park>
+    <Name>Silverwood, ID</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>60.10</MayMax>
+    <JunMax>71.07</JunMax>
+    <JulMax>86.94</JulMax>
+    <AugMax>89.42</AugMax>
+    <SepMax>77.63</SepMax>
+    <OctMax>65.61</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>41.97</MayMin>
+    <JunMin>52.43</JunMin>
+    <JulMin>61.19</JulMin>
+    <AugMin>62.94</AugMin>
+    <SepMin>53.40</SepMin>
+    <OctMin>44.77</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>1.55</MayRain>
+    <JunRain>2.46</JunRain>
+    <JulRain>0.34</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.53</SepRain>
+    <OctRain>0.48</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>9.85</MayWind>
+    <JunWind>9.72</JunWind>
+    <JulWind>7.45</JulWind>
+    <AugWind>7.61</AugWind>
+    <SepWind>6.73</SepWind>
+    <OctWind>7.20</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>37.79</MayDew>
+    <JunDew>44.67</JunDew>
+    <JulDew>46.48</JulDew>
+    <AugDew>44.56</AugDew>
+    <SepDew>40.71</SepDew>
+    <OctDew>39.25</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags America, MD</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>57.35</MarMax>
+    <AprMax>65.70</AprMax>
+    <MayMax>75.74</MayMax>
+    <JunMax>84.07</JunMax>
+    <JulMax>88.16</JulMax>
+    <AugMax>88.29</AugMax>
+    <SepMax>80.77</SepMax>
+    <OctMax>66.29</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>40.35</MarMin>
+    <AprMin>48.00</AprMin>
+    <MayMin>59.81</MayMin>
+    <JunMin>68.03</JunMin>
+    <JulMin>73.74</JulMin>
+    <AugMin>72.00</AugMin>
+    <SepMin>64.60</SepMin>
+    <OctMin>49.97</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>1.60</MarRain>
+    <AprRain>3.82</AprRain>
+    <MayRain>6.36</MayRain>
+    <JunRain>2.96</JunRain>
+    <JulRain>7.13</JulRain>
+    <AugRain>2.90</AugRain>
+    <SepRain>7.90</SepRain>
+    <OctRain>2.94</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>10.13</MarWind>
+    <AprWind>9.82</AprWind>
+    <MayWind>8.70</MayWind>
+    <JunWind>8.39</JunWind>
+    <JulWind>7.47</JulWind>
+    <AugWind>7.65</AugWind>
+    <SepWind>7.90</SepWind>
+    <OctWind>8.27</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>31.64</MarDew>
+    <AprDew>38.26</AprDew>
+    <MayDew>54.88</MayDew>
+    <JunDew>59.40</JunDew>
+    <JulDew>67.42</JulDew>
+    <AugDew>66.57</AugDew>
+    <SepDew>59.03</SepDew>
+    <OctDew>47.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Darien Lake, NY</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>69.97</MayMax>
+    <JunMax>75.10</JunMax>
+    <JulMax>80.29</JulMax>
+    <AugMax>80.94</AugMax>
+    <SepMax>70.40</SepMax>
+    <OctMax>61.13</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>52.58</MayMin>
+    <JunMin>58.23</JunMin>
+    <JulMin>64.39</JulMin>
+    <AugMin>64.00</AugMin>
+    <SepMin>56.63</SepMin>
+    <OctMin>43.61</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>3.02</MayRain>
+    <JunRain>2.87</JunRain>
+    <JulRain>2.31</JulRain>
+    <AugRain>2.81</AugRain>
+    <SepRain>4.35</SepRain>
+    <OctRain>3.69</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>9.00</MayWind>
+    <JunWind>9.69</JunWind>
+    <JulWind>9.47</JulWind>
+    <AugWind>8.24</AugWind>
+    <SepWind>8.05</SepWind>
+    <OctWind>9.29</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>47.91</MayDew>
+    <JunDew>53.53</JunDew>
+    <JulDew>59.40</JulDew>
+    <AugDew>61.31</AugDew>
+    <SepDew>55.04</SepDew>
+    <OctDew>40.07</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Discovery Kingdom, CA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>57.61</JanMax>
+    <FebMax>56.68</FebMax>
+    <MarMax>56.81</MarMax>
+    <AprMax>65.03</AprMax>
+    <MayMax>68.23</MayMax>
+    <JunMax>72.17</JunMax>
+    <JulMax>68.94</JulMax>
+    <AugMax>73.77</AugMax>
+    <SepMax>76.97</SepMax>
+    <OctMax>68.39</OctMax>
+    <NovMax>60.87</NovMax>
+    <DecMax>54.84</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>45.06</JanMin>
+    <FebMin>40.86</FebMin>
+    <MarMin>44.68</MarMin>
+    <AprMin>48.63</AprMin>
+    <MayMin>50.68</MayMin>
+    <JunMin>55.37</JunMin>
+    <JulMin>56.97</JulMin>
+    <AugMin>58.81</AugMin>
+    <SepMin>59.23</SepMin>
+    <OctMin>52.44</OctMin>
+    <NovMin>42.63</NovMin>
+    <DecMin>41.94</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>7.33</JanRain>
+    <FebRain>2.42</FebRain>
+    <MarRain>5.72</MarRain>
+    <AprRain>0.98</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.27</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.01</AugRain>
+    <SepRain>0.01</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>1.46</NovRain>
+    <DecRain>6.95</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>9.62</JanWind>
+    <FebWind>8.60</FebWind>
+    <MarWind>10.05</MarWind>
+    <AprWind>10.83</AprWind>
+    <MayWind>10.66</MayWind>
+    <JunWind>9.36</JunWind>
+    <JulWind>10.43</JulWind>
+    <AugWind>9.39</AugWind>
+    <SepWind>8.40</SepWind>
+    <OctWind>6.83</OctWind>
+    <NovWind>6.29</NovWind>
+    <DecWind>6.34</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>41.01</JanDew>
+    <FebDew>38.81</FebDew>
+    <MarDew>41.90</MarDew>
+    <AprDew>45.33</AprDew>
+    <MayDew>47.18</MayDew>
+    <JunDew>52.65</JunDew>
+    <JulDew>54.28</JulDew>
+    <AugDew>56.53</AugDew>
+    <SepDew>56.64</SepDew>
+    <OctDew>51.35</OctDew>
+    <NovDew>40.83</NovDew>
+    <DecDew>43.01</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Great Adventure, NJ</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>50.77</MarMax>
+    <AprMax>59.77</AprMax>
+    <MayMax>72.77</MayMax>
+    <JunMax>79.13</JunMax>
+    <JulMax>87.87</JulMax>
+    <AugMax>86.65</AugMax>
+    <SepMax>76.30</SepMax>
+    <OctMax>62.58</OctMax>
+    <NovMax>56.57</NovMax>
+    <DecMax>42.90</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>34.06</MarMin>
+    <AprMin>42.03</AprMin>
+    <MayMin>53.60</MayMin>
+    <JunMin>60.83</JunMin>
+    <JulMin>69.55</JulMin>
+    <AugMin>67.77</AugMin>
+    <SepMin>58.43</SepMin>
+    <OctMin>44.29</OctMin>
+    <NovMin>38.13</NovMin>
+    <DecMin>27.61</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>2.46</MarRain>
+    <AprRain>5.82</AprRain>
+    <MayRain>4.71</MayRain>
+    <JunRain>2.04</JunRain>
+    <JulRain>1.05</JulRain>
+    <AugRain>2.52</AugRain>
+    <SepRain>2.43</SepRain>
+    <OctRain>5.91</OctRain>
+    <NovRain>2.27</NovRain>
+    <DecRain>4.19</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>8.38</MarWind>
+    <AprWind>8.87</AprWind>
+    <MayWind>7.16</MayWind>
+    <JunWind>6.18</JunWind>
+    <JulWind>6.16</JulWind>
+    <AugWind>5.94</AugWind>
+    <SepWind>6.01</SepWind>
+    <OctWind>6.14</OctWind>
+    <NovWind>6.57</NovWind>
+    <DecWind>7.22</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>28.90</MarDew>
+    <AprDew>35.99</AprDew>
+    <MayDew>51.35</MayDew>
+    <JunDew>57.73</JunDew>
+    <JulDew>64.96</JulDew>
+    <AugDew>63.91</AugDew>
+    <SepDew>56.42</SepDew>
+    <OctDew>45.37</OctDew>
+    <NovDew>36.53</NovDew>
+    <DecDew>26.40</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Great America, IL</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>54.57</AprMax>
+    <MayMax>71.65</MayMax>
+    <JunMax>81.90</JunMax>
+    <JulMax>82.77</JulMax>
+    <AugMax>82.29</AugMax>
+    <SepMax>75.20</SepMax>
+    <OctMax>63.26</OctMax>
+    <NovMax>51.20</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>39.60</AprMin>
+    <MayMin>55.74</MayMin>
+    <JunMin>62.63</JunMin>
+    <JulMin>67.68</JulMin>
+    <AugMin>66.13</AugMin>
+    <SepMin>59.37</SepMin>
+    <OctMin>44.74</OctMin>
+    <NovMin>35.53</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>3.87</AprRain>
+    <MayRain>4.93</MayRain>
+    <JunRain>2.66</JunRain>
+    <JulRain>4.50</JulRain>
+    <AugRain>1.85</AugRain>
+    <SepRain>2.20</SepRain>
+    <OctRain>1.66</OctRain>
+    <NovRain>0.86</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>11.63</AprWind>
+    <MayWind>10.82</MayWind>
+    <JunWind>8.83</JunWind>
+    <JulWind>9.06</JulWind>
+    <AugWind>8.51</AugWind>
+    <SepWind>8.36</SepWind>
+    <OctWind>9.44</OctWind>
+    <NovWind>10.70</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>35.61</AprDew>
+    <MayDew>50.13</MayDew>
+    <JunDew>54.36</JunDew>
+    <JulDew>61.78</JulDew>
+    <AugDew>62.07</AugDew>
+    <SepDew>55.43</SepDew>
+    <OctDew>39.73</OctDew>
+    <NovDew>30.73</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Great Escape, NY</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>71.23</MayMax>
+    <JunMax>73.50</JunMax>
+    <JulMax>80.61</JulMax>
+    <AugMax>80.81</AugMax>
+    <SepMax>68.27</SepMax>
+    <OctMax>61.23</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>48.87</MayMin>
+    <JunMin>53.83</JunMin>
+    <JulMin>58.84</JulMin>
+    <AugMin>60.74</AugMin>
+    <SepMin>50.13</SepMin>
+    <OctMin>39.52</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>3.38</MayRain>
+    <JunRain>1.00</JunRain>
+    <JulRain>1.34</JulRain>
+    <AugRain>2.26</AugRain>
+    <SepRain>4.76</SepRain>
+    <OctRain>1.61</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>7.13</MayWind>
+    <JunWind>6.92</JunWind>
+    <JulWind>6.09</JulWind>
+    <AugWind>5.20</AugWind>
+    <SepWind>5.23</SepWind>
+    <OctWind>6.28</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>46.24</MayDew>
+    <JunDew>53.88</JunDew>
+    <JulDew>59.35</JulDew>
+    <AugDew>62.14</AugDew>
+    <SepDew>53.76</SepDew>
+    <OctDew>41.02</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Mexico</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>73.39</JanMax>
+    <FebMax>76.71</FebMax>
+    <MarMax>79.77</MarMax>
+    <AprMax>80.67</AprMax>
+    <MayMax>83.35</MayMax>
+    <JunMax>76.60</JunMax>
+    <JulMax>77.00</JulMax>
+    <AugMax>75.52</AugMax>
+    <SepMax>73.60</SepMax>
+    <OctMax>75.84</OctMax>
+    <NovMax>75.17</NovMax>
+    <DecMax>71.58</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>45.94</JanMin>
+    <FebMin>48.29</FebMin>
+    <MarMin>52.77</MarMin>
+    <AprMin>56.87</AprMin>
+    <MayMin>58.23</MayMin>
+    <JunMin>57.07</JunMin>
+    <JulMin>57.51</JulMin>
+    <AugMin>56.74</AugMin>
+    <SepMin>57.47</SepMin>
+    <OctMin>54.74</OctMin>
+    <NovMin>51.70</NovMin>
+    <DecMin>46.32</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.00</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.35</JanWind>
+    <FebWind>6.71</FebWind>
+    <MarWind>7.50</MarWind>
+    <AprWind>7.62</AprWind>
+    <MayWind>8.46</MayWind>
+    <JunWind>8.68</JunWind>
+    <JulWind>8.27</JulWind>
+    <AugWind>7.55</AugWind>
+    <SepWind>8.95</SepWind>
+    <OctWind>7.15</OctWind>
+    <NovWind>6.38</NovWind>
+    <DecWind>5.83</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>35.21</JanDew>
+    <FebDew>34.32</FebDew>
+    <MarDew>35.29</MarDew>
+    <AprDew>40.73</AprDew>
+    <MayDew>39.67</MayDew>
+    <JunDew>47.38</JunDew>
+    <JulDew>49.94</JulDew>
+    <AugDew>51.33</AugDew>
+    <SepDew>49.83</SepDew>
+    <OctDew>49.44</OctDew>
+    <NovDew>44.73</NovDew>
+    <DecDew>38.42</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags New England, MA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>59.90</AprMax>
+    <MayMax>74.19</MayMax>
+    <JunMax>79.27</JunMax>
+    <JulMax>87.45</JulMax>
+    <AugMax>86.74</AugMax>
+    <SepMax>74.83</SepMax>
+    <OctMax>64.52</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>40.13</AprMin>
+    <MayMin>53.48</MayMin>
+    <JunMin>58.13</JunMin>
+    <JulMin>66.19</JulMin>
+    <AugMin>66.63</AugMin>
+    <SepMin>55.70</SepMin>
+    <OctMin>43.94</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>5.76</AprRain>
+    <MayRain>2.83</MayRain>
+    <JunRain>2.59</JunRain>
+    <JulRain>2.66</JulRain>
+    <AugRain>4.33</AugRain>
+    <SepRain>6.08</SepRain>
+    <OctRain>5.03</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>9.71</AprWind>
+    <MayWind>8.25</MayWind>
+    <JunWind>6.96</JunWind>
+    <JulWind>6.99</JulWind>
+    <AugWind>6.48</AugWind>
+    <SepWind>5.96</SepWind>
+    <OctWind>6.49</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>31.56</AprDew>
+    <MayDew>47.71</MayDew>
+    <JunDew>54.47</JunDew>
+    <JulDew>61.68</JulDew>
+    <AugDew>62.74</AugDew>
+    <SepDew>54.69</SepDew>
+    <OctDew>43.08</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Over Georgia, GA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>67.94</MarMax>
+    <AprMax>72.90</AprMax>
+    <MayMax>82.35</MayMax>
+    <JunMax>89.90</JunMax>
+    <JulMax>89.48</JulMax>
+    <AugMax>86.55</AugMax>
+    <SepMax>82.83</SepMax>
+    <OctMax>73.29</OctMax>
+    <NovMax>64.73</NovMax>
+    <DecMax>54.84</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>48.65</MarMin>
+    <AprMin>53.23</AprMin>
+    <MayMin>65.03</MayMin>
+    <JunMin>71.83</JunMin>
+    <JulMin>73.26</JulMin>
+    <AugMin>71.84</AugMin>
+    <SepMin>66.17</SepMin>
+    <OctMin>51.74</OctMin>
+    <NovMin>48.17</NovMin>
+    <DecMin>40.13</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>5.24</MarRain>
+    <AprRain>4.37</AprRain>
+    <MayRain>2.43</MayRain>
+    <JunRain>5.30</JunRain>
+    <JulRain>4.17</JulRain>
+    <AugRain>6.79</AugRain>
+    <SepRain>0.99</SepRain>
+    <OctRain>1.71</OctRain>
+    <NovRain>4.23</NovRain>
+    <DecRain>3.35</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>8.72</MarWind>
+    <AprWind>7.91</AprWind>
+    <MayWind>8.04</MayWind>
+    <JunWind>7.49</JunWind>
+    <JulWind>6.41</JulWind>
+    <AugWind>6.24</AugWind>
+    <SepWind>7.95</SepWind>
+    <OctWind>7.86</OctWind>
+    <NovWind>8.96</NovWind>
+    <DecWind>8.19</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>40.94</MarDew>
+    <AprDew>45.95</AprDew>
+    <MayDew>59.60</MayDew>
+    <JunDew>64.87</JunDew>
+    <JulDew>70.43</JulDew>
+    <AugDew>69.55</AugDew>
+    <SepDew>60.41</SepDew>
+    <OctDew>46.63</OctDew>
+    <NovDew>43.61</NovDew>
+    <DecDew>37.04</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags Over Texas, TX</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>62.42</JanMax>
+    <FebMax>62.50</FebMax>
+    <MarMax>70.19</MarMax>
+    <AprMax>80.27</AprMax>
+    <MayMax>88.16</MayMax>
+    <JunMax>95.47</JunMax>
+    <JulMax>101.61</JulMax>
+    <AugMax>95.00</AugMax>
+    <SepMax>90.73</SepMax>
+    <OctMax>79.87</OctMax>
+    <NovMax>63.07</NovMax>
+    <DecMax>59.58</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>42.23</JanMin>
+    <FebMin>41.89</FebMin>
+    <MarMin>51.13</MarMin>
+    <AprMin>58.40</AprMin>
+    <MayMin>67.55</MayMin>
+    <JunMin>76.63</JunMin>
+    <JulMin>81.61</JulMin>
+    <AugMin>77.84</AugMin>
+    <SepMin>70.90</SepMin>
+    <OctMin>58.13</OctMin>
+    <NovMin>46.83</NovMin>
+    <DecMin>41.14</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>1.03</JanRain>
+    <FebRain>4.32</FebRain>
+    <MarRain>2.76</MarRain>
+    <AprRain>2.54</AprRain>
+    <MayRain>3.00</MayRain>
+    <JunRain>2.64</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>10.53</AugRain>
+    <SepRain>0.48</SepRain>
+    <OctRain>2.13</OctRain>
+    <NovRain>6.40</NovRain>
+    <DecRain>2.39</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>11.19</JanWind>
+    <FebWind>11.54</FebWind>
+    <MarWind>12.54</MarWind>
+    <AprWind>15.32</AprWind>
+    <MayWind>13.85</MayWind>
+    <JunWind>11.03</JunWind>
+    <JulWind>11.20</JulWind>
+    <AugWind>9.24</AugWind>
+    <SepWind>7.23</SepWind>
+    <OctWind>9.27</OctWind>
+    <NovWind>9.16</NovWind>
+    <DecWind>10.03</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>36.17</JanDew>
+    <FebDew>38.09</FebDew>
+    <MarDew>46.08</MarDew>
+    <AprDew>50.51</AprDew>
+    <MayDew>62.19</MayDew>
+    <JunDew>65.04</JunDew>
+    <JulDew>64.20</JulDew>
+    <AugDew>67.21</AugDew>
+    <SepDew>59.82</SepDew>
+    <OctDew>48.61</OctDew>
+    <NovDew>45.35</NovDew>
+    <DecDew>37.22</DecDew>
+  </Park>
+  <Park>
+    <Name>Six Flags St. Louis, MO</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>66.47</AprMax>
+    <MayMax>77.87</MayMax>
+    <JunMax>88.70</JunMax>
+    <JulMax>91.55</JulMax>
+    <AugMax>87.87</AugMax>
+    <SepMax>80.70</SepMax>
+    <OctMax>69.65</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>46.47</AprMin>
+    <MayMin>60.77</MayMin>
+    <JunMin>70.07</JunMin>
+    <JulMin>74.19</JulMin>
+    <AugMin>71.26</AugMin>
+    <SepMin>62.00</SepMin>
+    <OctMin>47.77</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>3.39</AprRain>
+    <MayRain>6.26</MayRain>
+    <JunRain>1.79</JunRain>
+    <JulRain>12.22</JulRain>
+    <AugRain>5.78</AugRain>
+    <SepRain>1.73</SepRain>
+    <OctRain>3.67</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>11.43</AprWind>
+    <MayWind>10.16</MayWind>
+    <JunWind>7.54</JunWind>
+    <JulWind>7.54</JulWind>
+    <AugWind>7.02</AugWind>
+    <SepWind>6.58</SepWind>
+    <OctWind>7.88</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>40.37</AprDew>
+    <MayDew>56.24</MayDew>
+    <JunDew>61.35</JunDew>
+    <JulDew>67.42</JulDew>
+    <AugDew>66.11</AugDew>
+    <SepDew>56.77</SepDew>
+    <OctDew>40.26</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Southern California parks</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>61.13</JanMax>
+    <FebMax>62.29</FebMax>
+    <MarMax>60.68</MarMax>
+    <AprMax>76.63</AprMax>
+    <MayMax>76.47</MayMax>
+    <JunMax>87.50</JunMax>
+    <JulMax>88.48</JulMax>
+    <AugMax>93.19</AugMax>
+    <SepMax>92.20</SepMax>
+    <OctMax>81.55</OctMax>
+    <NovMax>69.93</NovMax>
+    <DecMax>63.45</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>44.58</JanMin>
+    <FebMin>43.50</FebMin>
+    <MarMin>46.77</MarMin>
+    <AprMin>56.93</AprMin>
+    <MayMin>59.00</MayMin>
+    <JunMin>64.97</JunMin>
+    <JulMin>66.31</JulMin>
+    <AugMin>70.58</AugMin>
+    <SepMin>71.57</SepMin>
+    <OctMin>61.87</OctMin>
+    <NovMin>47.19</NovMin>
+    <DecMin>45.39</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>6.39</JanRain>
+    <FebRain>7.35</FebRain>
+    <MarRain>5.93</MarRain>
+    <AprRain>0.27</AprRain>
+    <MayRain>0.01</MayRain>
+    <JunRain>0.01</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.16</SepRain>
+    <OctRain>0.07</OctRain>
+    <NovRain>1.46</NovRain>
+    <DecRain>1.98</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>6.19</JanWind>
+    <FebWind>5.73</FebWind>
+    <MarWind>6.33</MarWind>
+    <AprWind>6.37</AprWind>
+    <MayWind>6.25</MayWind>
+    <JunWind>6.34</JunWind>
+    <JulWind>6.67</JulWind>
+    <AugWind>5.91</AugWind>
+    <SepWind>5.26</SepWind>
+    <OctWind>4.57</OctWind>
+    <NovWind>4.69</NovWind>
+    <DecWind>3.63</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>37.39</JanDew>
+    <FebDew>31.47</FebDew>
+    <MarDew>40.72</MarDew>
+    <AprDew>43.15</AprDew>
+    <MayDew>48.13</MayDew>
+    <JunDew>55.35</JunDew>
+    <JulDew>57.53</JulDew>
+    <AugDew>56.59</AugDew>
+    <SepDew>58.74</SepDew>
+    <OctDew>52.17</OctDew>
+    <NovDew>31.45</NovDew>
+    <DecDew>40.21</DecDew>
+  </Park>
+  <Park>
+    <Name>Valleyfair, MN</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>70.19</MayMax>
+    <JunMax>82.23</JunMax>
+    <JulMax>84.45</JulMax>
+    <AugMax>80.90</AugMax>
+    <SepMax>75.30</SepMax>
+    <OctMax>61.74</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>51.94</MayMin>
+    <JunMin>63.50</JunMin>
+    <JulMin>67.84</JulMin>
+    <AugMin>64.13</AugMin>
+    <SepMin>56.70</SepMin>
+    <OctMin>42.35</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>4.13</MayRain>
+    <JunRain>1.12</JunRain>
+    <JulRain>1.18</JulRain>
+    <AugRain>4.28</AugRain>
+    <SepRain>0.24</SepRain>
+    <OctRain>0.24</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>10.35</MayWind>
+    <JunWind>10.14</JunWind>
+    <JulWind>8.81</JulWind>
+    <AugWind>8.35</AugWind>
+    <SepWind>8.44</SepWind>
+    <OctWind>8.98</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>44.40</MayDew>
+    <JunDew>52.94</JunDew>
+    <JulDew>60.88</JulDew>
+    <AugDew>60.08</AugDew>
+    <SepDew>51.56</SepDew>
+    <OctDew>35.50</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Waldameer, PA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>69.03</MayMax>
+    <JunMax>76.10</JunMax>
+    <JulMax>80.03</JulMax>
+    <AugMax>79.26</AugMax>
+    <SepMax>70.93</SepMax>
+    <OctMax>0.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>53.13</MayMin>
+    <JunMin>60.13</JunMin>
+    <JulMin>64.58</JulMin>
+    <AugMin>64.71</AugMin>
+    <SepMin>57.43</SepMin>
+    <OctMin>0.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>4.54</MayRain>
+    <JunRain>1.60</JunRain>
+    <JulRain>4.12</JulRain>
+    <AugRain>3.49</AugRain>
+    <SepRain>8.31</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>8.76</MayWind>
+    <JunWind>8.34</JunWind>
+    <JulWind>8.14</JulWind>
+    <AugWind>7.87</AugWind>
+    <SepWind>8.21</SepWind>
+    <OctWind>0.00</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>45.97</MayDew>
+    <JunDew>54.32</JunDew>
+    <JulDew>61.25</JulDew>
+    <AugDew>62.21</AugDew>
+    <SepDew>56.13</SepDew>
+    <OctDew>0.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Wisconsin Dells parks</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>71.32</MayMax>
+    <JunMax>79.63</JunMax>
+    <JulMax>82.06</JulMax>
+    <AugMax>79.74</AugMax>
+    <SepMax>71.70</SepMax>
+    <OctMax>61.26</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>52.97</MayMin>
+    <JunMin>58.90</JunMin>
+    <JulMin>63.42</JulMin>
+    <AugMin>61.48</AugMin>
+    <SepMin>54.23</SepMin>
+    <OctMin>39.32</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>2.85</MayRain>
+    <JunRain>4.02</JunRain>
+    <JulRain>5.42</JulRain>
+    <AugRain>5.75</AugRain>
+    <SepRain>4.03</SepRain>
+    <OctRain>0.85</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>8.44</MayWind>
+    <JunWind>6.35</JunWind>
+    <JulWind>5.66</JulWind>
+    <AugWind>5.60</AugWind>
+    <SepWind>6.09</SepWind>
+    <OctWind>6.51</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>48.62</MayDew>
+    <JunDew>54.87</JunDew>
+    <JulDew>61.27</JulDew>
+    <AugDew>61.77</AugDew>
+    <SepDew>54.03</SepDew>
+    <OctDew>38.42</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+  <Park>
+    <Name>Worlds of Fun, MO</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>64.93</AprMax>
+    <MayMax>75.16</MayMax>
+    <JunMax>85.77</JunMax>
+    <JulMax>88.19</JulMax>
+    <AugMax>88.97</AugMax>
+    <SepMax>82.97</SepMax>
+    <OctMax>71.65</OctMax>
+    <NovMax>53.93</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>42.93</AprMin>
+    <MayMin>57.94</MayMin>
+    <JunMin>66.87</JunMin>
+    <JulMin>70.29</JulMin>
+    <AugMin>68.68</AugMin>
+    <SepMin>59.33</SepMin>
+    <OctMin>47.26</OctMin>
+    <NovMin>33.60</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>2.35</AprRain>
+    <MayRain>8.06</MayRain>
+    <JunRain>5.13</JunRain>
+    <JulRain>2.30</JulRain>
+    <AugRain>2.41</AugRain>
+    <SepRain>0.84</SepRain>
+    <OctRain>1.71</OctRain>
+    <NovRain>3.99</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>12.95</AprWind>
+    <MayWind>11.49</MayWind>
+    <JunWind>9.38</JunWind>
+    <JulWind>7.87</JulWind>
+    <AugWind>7.94</AugWind>
+    <SepWind>8.66</SepWind>
+    <OctWind>9.71</OctWind>
+    <NovWind>11.08</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>36.58</AprDew>
+    <MayDew>55.34</MayDew>
+    <JunDew>64.22</JunDew>
+    <JulDew>68.11</JulDew>
+    <AugDew>65.88</AugDew>
+    <SepDew>55.12</SepDew>
+    <OctDew>38.06</OctDew>
+    <NovDew>30.47</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
+</AmusementData>

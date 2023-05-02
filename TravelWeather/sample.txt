@@ -1,0 +1,72 @@
+  <Park>
+    <Name>Anytown, USA</Name>
+    <!--Average max monthly temps (F)-->
+    <JanMax>0.00</JanMax>
+    <FebMax>0.00</FebMax>
+    <MarMax>0.00</MarMax>
+    <AprMax>0.00</AprMax>
+    <MayMax>0.00</MayMax>
+    <JunMax>0.00</JunMax>
+    <JulMax>0.00</JulMax>
+    <AugMax>0.00</AugMax>
+    <SepMax>0.00</SepMax>
+    <OctMax>0.00</OctMax>
+    <NovMax>0.00</NovMax>
+    <DecMax>0.00</DecMax>
+
+    <!--Average min monthly temps (F)-->
+    <JanMin>0.00</JanMin>
+    <FebMin>0.00</FebMin>
+    <MarMin>0.00</MarMin>
+    <AprMin>0.00</AprMin>
+    <MayMin>0.00</MayMin>
+    <JunMin>0.00</JunMin>
+    <JulMin>0.00</JulMin>
+    <AugMin>0.00</AugMin>
+    <SepMin>0.00</SepMin>
+    <OctMin>0.00</OctMin>
+    <NovMin>0.00</NovMin>
+    <DecMin>0.00</DecMin>
+
+    <!--Total monthly precipitation (inches)-->
+    <JanRain>0.00</JanRain>
+    <FebRain>0.00</FebRain>
+    <MarRain>0.00</MarRain>
+    <AprRain>0.00</AprRain>
+    <MayRain>0.00</MayRain>
+    <JunRain>0.00</JunRain>
+    <JulRain>0.00</JulRain>
+    <AugRain>0.00</AugRain>
+    <SepRain>0.00</SepRain>
+    <OctRain>0.00</OctRain>
+    <NovRain>0.00</NovRain>
+    <DecRain>0.00</DecRain>
+
+    <!--Average monthly wind speed (mph)-->
+    <JanWind>0.00</JanWind>
+    <FebWind>0.00</FebWind>
+    <MarWind>0.00</MarWind>
+    <AprWind>0.00</AprWind>
+    <MayWind>0.00</MayWind>
+    <JunWind>0.00</JunWind>
+    <JulWind>0.00</JulWind>
+    <AugWind>0.00</AugWind>
+    <SepWind>0.00</SepWind>
+    <OctWind>0.00</OctWind>
+    <NovWind>0.00</NovWind>
+    <DecWind>0.00</DecWind>
+
+    <!--Average monthly dew point (F)-->
+    <JanDew>0.00</JanDew>
+    <FebDew>0.00</FebDew>
+    <MarDew>0.00</MarDew>
+    <AprDew>0.00</AprDew>
+    <MayDew>0.00</MayDew>
+    <JunDew>0.00</JunDew>
+    <JulDew>0.00</JulDew>
+    <AugDew>0.00</AugDew>
+    <SepDew>0.00</SepDew>
+    <OctDew>0.00</OctDew>
+    <NovDew>0.00</NovDew>
+    <DecDew>0.00</DecDew>
+  </Park>
